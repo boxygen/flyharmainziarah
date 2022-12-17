@@ -1,0 +1,871 @@
+[
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/TK.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "06:10",
+                    "arrival_code": "IST",
+                    "arrival_airport": "Ataturk Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "10:25",
+                    "duration_time": "06:15",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100000",
+                    "airline": "Turkish Airlines",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 403
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/TK.png",
+                    "departure_code": "IST",
+                    "departure_airport": "Ataturk Arpt",
+                    "departure_date": "08-26-2020",
+                    "departure_time": "00:40",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "05:55",
+                    "duration_time": "04:15",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100000",
+                    "airline": "Turkish Airlines",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 403
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/PK.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "10:45",
+                    "arrival_code": "AUH",
+                    "arrival_airport": "Dhabi Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "13:15",
+                    "duration_time": "03:30",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100001",
+                    "airline": "Pakistan International Airlines",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 469
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/G8.png",
+                    "departure_code": "AUH",
+                    "departure_airport": "Dhabi Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "17:00",
+                    "arrival_code": "BOM",
+                    "arrival_airport": "Chhatrapati Shivaji",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "22:00",
+                    "duration_time": "03:30",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100001",
+                    "airline": "Go!",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 469
+                },
+                {
+                    "id": 3,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/SG.png",
+                    "departure_code": "BOM",
+                    "departure_airport": "Chhatrapati Shivaji",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "23:30",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "01:30",
+                    "duration_time": "03:30",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100001",
+                    "airline": "SpiceJet",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 469
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/QR.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "09:30",
+                    "arrival_code": "DOH",
+                    "arrival_airport": "Doha International Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "11:05",
+                    "duration_time": "03:35",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100002",
+                    "airline": "Qatar Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 738
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/QR.png",
+                    "departure_code": "DOH",
+                    "departure_airport": "Doha International Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "17:25",
+                    "arrival_code": "KWI",
+                    "arrival_airport": "Kuwait Intl",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "18:50",
+                    "duration_time": "01:25",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100002",
+                    "airline": "Qatar Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 738
+                },
+                {
+                    "id": 3,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/J9.png",
+                    "departure_code": "KWI",
+                    "departure_airport": "Kuwait Intl",
+                    "departure_date": "08-26-2020",
+                    "departure_time": "13:10",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "16:00",
+                    "duration_time": "01:50",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100002",
+                    "airline": "Jazeera Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 738
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/QR.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "09:30",
+                    "arrival_code": "DOH",
+                    "arrival_airport": "Doha International Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "11:05",
+                    "duration_time": "03:35",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100003",
+                    "airline": "Qatar Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 1399
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/QR.png",
+                    "departure_code": "DOH",
+                    "departure_airport": "Doha International Arpt",
+                    "departure_date": "08-26-2020",
+                    "departure_time": "01:05",
+                    "arrival_code": "KWI",
+                    "arrival_airport": "Kuwait Intl",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "02:30",
+                    "duration_time": "01:25",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100003",
+                    "airline": "Qatar Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 1399
+                },
+                {
+                    "id": 3,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/KU.png",
+                    "departure_code": "KWI",
+                    "departure_airport": "Kuwait Intl",
+                    "departure_date": "08-26-2020",
+                    "departure_time": "16:30",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "19:25",
+                    "duration_time": "01:55",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100003",
+                    "airline": "Kuwait Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 1399
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/PK.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "18:00",
+                    "arrival_code": "KHI",
+                    "arrival_airport": "Quaid E Azam International",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "19:45",
+                    "duration_time": "01:45",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100004",
+                    "airline": "Pakistan International Airlines",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 192
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/PK.png",
+                    "departure_code": "KHI",
+                    "departure_airport": "Quaid E Azam International",
+                    "departure_date": "08-26-2020",
+                    "departure_time": "08:05",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "09:30",
+                    "duration_time": "02:25",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100004",
+                    "airline": "Pakistan International Airlines",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 192
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/FZ.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "17:40",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "20:00",
+                    "duration_time": "03:20",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100005",
+                    "airline": "Flydubai",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 224
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/EY.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "02:15",
+                    "arrival_code": "AUH",
+                    "arrival_airport": "Dhabi Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "04:50",
+                    "duration_time": "03:35",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100006",
+                    "airline": "Etihad Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 2337
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/EY.png",
+                    "departure_code": "AUH",
+                    "departure_airport": "Dhabi Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "08:40",
+                    "arrival_code": "CAI",
+                    "arrival_airport": "Cairo Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "10:20",
+                    "duration_time": "03:40",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100006",
+                    "airline": "Etihad Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 2337
+                },
+                {
+                    "id": 3,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/MS.png",
+                    "departure_code": "CAI",
+                    "departure_airport": "Cairo Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "12:40",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "18:00",
+                    "duration_time": "03:20",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100006",
+                    "airline": "EgyptAir",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 2337
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/PK.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "10:45",
+                    "arrival_code": "AUH",
+                    "arrival_airport": "Dhabi Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "13:15",
+                    "duration_time": "03:30",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100007",
+                    "airline": "Pakistan International Airlines",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 562
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/G8.png",
+                    "departure_code": "AUH",
+                    "departure_airport": "Dhabi Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "17:00",
+                    "arrival_code": "BOM",
+                    "arrival_airport": "Chhatrapati Shivaji",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "22:00",
+                    "duration_time": "03:30",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100007",
+                    "airline": "Go!",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 562
+                },
+                {
+                    "id": 3,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/EK.png",
+                    "departure_code": "BOM",
+                    "departure_airport": "Chhatrapati Shivaji",
+                    "departure_date": "08-26-2020",
+                    "departure_time": "04:30",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "06:00",
+                    "duration_time": "03:00",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100007",
+                    "airline": "Emirates",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 562
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/EY.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "02:15",
+                    "arrival_code": "AUH",
+                    "arrival_airport": "Dhabi Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "04:50",
+                    "duration_time": "03:35",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100008",
+                    "airline": "Etihad Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 982
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/EY.png",
+                    "departure_code": "AUH",
+                    "departure_airport": "Dhabi Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "08:15",
+                    "arrival_code": "AMM",
+                    "arrival_airport": "Queen Alia Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "10:30",
+                    "duration_time": "03:15",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100008",
+                    "airline": "Etihad Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 982
+                },
+                {
+                    "id": 3,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/GF.png",
+                    "departure_code": "AMM",
+                    "departure_airport": "Queen Alia Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "12:30",
+                    "arrival_code": "BAH",
+                    "arrival_airport": "Bahrain Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "15:00",
+                    "duration_time": "02:30",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100008",
+                    "airline": "Gulf Air",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 982
+                },
+                {
+                    "id": 4,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/GF.png",
+                    "departure_code": "BAH",
+                    "departure_airport": "Bahrain Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "15:45",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "18:10",
+                    "duration_time": "01:25",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100008",
+                    "airline": "Gulf Air",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 982
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/PK.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "11:45",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "14:00",
+                    "duration_time": "03:15",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100009",
+                    "airline": "Pakistan International Airlines",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 195
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/EK.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "05:05",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "07:10",
+                    "duration_time": "03:05",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100010",
+                    "airline": "Emirates",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 232
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/QR.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "09:30",
+                    "arrival_code": "DOH",
+                    "arrival_airport": "Doha International Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "11:05",
+                    "duration_time": "03:35",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100011",
+                    "airline": "Qatar Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 396
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/QR.png",
+                    "departure_code": "DOH",
+                    "departure_airport": "Doha International Arpt",
+                    "departure_date": "08-26-2020",
+                    "departure_time": "01:05",
+                    "arrival_code": "KWI",
+                    "arrival_airport": "Kuwait Intl",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "02:30",
+                    "duration_time": "01:25",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100011",
+                    "airline": "Qatar Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 396
+                },
+                {
+                    "id": 3,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/J9.png",
+                    "departure_code": "KWI",
+                    "departure_airport": "Kuwait Intl",
+                    "departure_date": "08-26-2020",
+                    "departure_time": "13:10",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "16:00",
+                    "duration_time": "01:50",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100011",
+                    "airline": "Jazeera Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 396
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/PK.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "10:45",
+                    "arrival_code": "AUH",
+                    "arrival_airport": "Dhabi Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "13:15",
+                    "duration_time": "03:30",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100012",
+                    "airline": "Pakistan International Airlines",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 519
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/GF.png",
+                    "departure_code": "AUH",
+                    "departure_airport": "Dhabi Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "19:20",
+                    "arrival_code": "BAH",
+                    "arrival_airport": "Bahrain Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "19:25",
+                    "duration_time": "01:05",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100012",
+                    "airline": "Gulf Air",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 519
+                },
+                {
+                    "id": 3,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/GF.png",
+                    "departure_code": "BAH",
+                    "departure_airport": "Bahrain Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "22:45",
+                    "arrival_code": "BOM",
+                    "arrival_airport": "Chhatrapati Shivaji",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "04:55",
+                    "duration_time": "03:40",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100012",
+                    "airline": "Gulf Air",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 519
+                },
+                {
+                    "id": 4,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/SG.png",
+                    "departure_code": "BOM",
+                    "departure_airport": "Chhatrapati Shivaji",
+                    "departure_date": "08-26-2020",
+                    "departure_time": "09:05",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "11:10",
+                    "duration_time": "03:35",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100012",
+                    "airline": "SpiceJet",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 519
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/PK.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "10:45",
+                    "arrival_code": "AUH",
+                    "arrival_airport": "Dhabi Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "13:15",
+                    "duration_time": "03:30",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100013",
+                    "airline": "Pakistan International Airlines",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 612
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/GF.png",
+                    "departure_code": "AUH",
+                    "departure_airport": "Dhabi Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "19:20",
+                    "arrival_code": "BAH",
+                    "arrival_airport": "Bahrain Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "19:25",
+                    "duration_time": "01:05",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100013",
+                    "airline": "Gulf Air",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 612
+                },
+                {
+                    "id": 3,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/GF.png",
+                    "departure_code": "BAH",
+                    "departure_airport": "Bahrain Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "22:45",
+                    "arrival_code": "BOM",
+                    "arrival_airport": "Chhatrapati Shivaji",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "04:55",
+                    "duration_time": "03:40",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100013",
+                    "airline": "Gulf Air",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 612
+                },
+                {
+                    "id": 4,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/EK.png",
+                    "departure_code": "BOM",
+                    "departure_airport": "Chhatrapati Shivaji",
+                    "departure_date": "08-26-2020",
+                    "departure_time": "10:10",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-26-2020",
+                    "arrival_time": "11:40",
+                    "duration_time": "03:00",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100013",
+                    "airline": "Emirates",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 612
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "id": 1,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/EY.png",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "02:15",
+                    "arrival_code": "AUH",
+                    "arrival_airport": "Dhabi Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "04:50",
+                    "duration_time": "03:35",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100014",
+                    "airline": "Etihad Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 982
+                },
+                {
+                    "id": 2,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/EY.png",
+                    "departure_code": "AUH",
+                    "departure_airport": "Dhabi Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "08:15",
+                    "arrival_code": "AMM",
+                    "arrival_airport": "Queen Alia Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "10:30",
+                    "duration_time": "03:15",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100014",
+                    "airline": "Etihad Airways",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 982
+                },
+                {
+                    "id": 3,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/GF.png",
+                    "departure_code": "AMM",
+                    "departure_airport": "Queen Alia Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "12:30",
+                    "arrival_code": "BAH",
+                    "arrival_airport": "Bahrain Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "15:00",
+                    "duration_time": "02:30",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100014",
+                    "airline": "Gulf Air",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 982
+                },
+                {
+                    "id": 4,
+                    "flight_id": "",
+                    "img": "https://www.travelapi.co/global/resources/flights/airlines/GF.png",
+                    "departure_code": "BAH",
+                    "departure_airport": "Bahrain Intl Arpt",
+                    "departure_date": "08-25-2020",
+                    "departure_time": "20:05",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai Intl Arpt",
+                    "arrival_date": "08-25-2020",
+                    "arrival_time": "22:35",
+                    "duration_time": "01:30",
+                    "redirect": "http://misc.travelpayouts.com/flights/redirect/e68847b2-e052-11e9-8891-dae1d83fdc87/1100014",
+                    "airline": "Gulf Air",
+                    "class": "Economy",
+                    "currceny": "USD",
+                    "price": 982
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,1465 @@
+<?xml version="1.0"?>
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <air:LowFareSearchRsp xmlns:air="http://www.travelport.com/schema/air_v42_0" xmlns:common_v42_0="http://www.travelport.com/schema/common_v42_0" TraceId="trace" TransactionId="A223588A0A0D6A956B259113FD9F11C9" ResponseTime="1145" DistanceUnits="MI" CurrencyType="USD">
+      <air:FlightDetailsList>
+        <air:FlightDetails Key="PvNYSKVqWDKArUVrBAAAAA==" Origin="DEN" Destination="ATL" DepartureTime="2022-08-22T17:50:00.000-06:00" ArrivalTime="2022-08-22T22:54:00.000-04:00" FlightTime="184" TravelTime="184" Equipment="320" OnTimePerformance="20" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKA2UVrBAAAAA==" Origin="DEN" Destination="ATL" DepartureTime="2022-08-22T10:05:00.000-06:00" ArrivalTime="2022-08-22T15:04:00.000-04:00" FlightTime="179" TravelTime="179" Equipment="739" OnTimePerformance="70" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKALVVrBAAAAA==" Origin="DEN" Destination="ATL" DepartureTime="2022-08-22T07:46:00.000-06:00" ArrivalTime="2022-08-22T12:56:00.000-04:00" FlightTime="190" TravelTime="190" Equipment="E7W" OnTimePerformance="80" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAEVVrBAAAAA==" Origin="DEN" Destination="IAH" DepartureTime="2022-08-22T12:10:00.000-06:00" ArrivalTime="2022-08-22T15:35:00.000-05:00" FlightTime="145" TravelTime="449" Equipment="739" OnTimePerformance="60" DestinationTerminal="C"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAHVVrBAAAAA==" Origin="IAH" Destination="ATL" DepartureTime="2022-08-22T18:24:00.000-05:00" ArrivalTime="2022-08-22T21:39:00.000-04:00" FlightTime="135" TravelTime="449" Equipment="E7W" OnTimePerformance="70" OriginTerminal="B" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAVVVrBAAAAA==" Origin="IAH" Destination="ATL" DepartureTime="2022-08-22T16:27:00.000-05:00" ArrivalTime="2022-08-22T19:45:00.000-04:00" FlightTime="138" TravelTime="335" Equipment="E7W" OnTimePerformance="80" OriginTerminal="B" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKA8VVrBAAAAA==" Origin="DEN" Destination="IAH" DepartureTime="2022-08-22T09:50:00.000-06:00" ArrivalTime="2022-08-22T13:20:00.000-05:00" FlightTime="150" TravelTime="339" Equipment="777" OnTimePerformance="80" DestinationTerminal="C"/>
+        <air:FlightDetails Key="PvNYSKVqWDKA+VVrBAAAAA==" Origin="IAH" Destination="ATL" DepartureTime="2022-08-22T14:20:00.000-05:00" ArrivalTime="2022-08-22T17:29:00.000-04:00" FlightTime="129" TravelTime="339" Equipment="73G" OnTimePerformance="70" OriginTerminal="C" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAMWVrBAAAAA==" Origin="DEN" Destination="IAH" DepartureTime="2022-08-22T13:28:00.000-06:00" ArrivalTime="2022-08-22T16:56:00.000-05:00" FlightTime="148" TravelTime="371" Equipment="739" OnTimePerformance="80" DestinationTerminal="C"/>
+        <air:FlightDetails Key="PvNYSKVqWDKATWVrBAAAAA==" Origin="DEN" Destination="ORD" DepartureTime="2022-08-22T13:33:00.000-06:00" ArrivalTime="2022-08-22T17:07:00.000-05:00" FlightTime="154" TravelTime="360" Equipment="752" OnTimePerformance="60" DestinationTerminal="1"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAxVVrBAAAAA==" Origin="ORD" Destination="ATL" DepartureTime="2022-08-22T18:07:00.000-05:00" ArrivalTime="2022-08-22T21:33:00.000-04:00" FlightTime="146" TravelTime="360" Equipment="E7W" OnTimePerformance="80" OriginTerminal="2" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKApWVrBAAAAA==" Origin="DEN" Destination="IAD" DepartureTime="2022-08-22T15:46:00.000-06:00" ArrivalTime="2022-08-22T21:08:00.000-04:00" FlightTime="202" TravelTime="371" Equipment="320" OnTimePerformance="60"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAkWVrBAAAAA==" Origin="IAD" Destination="ATL" DepartureTime="2022-08-22T22:11:00.000-04:00" ArrivalTime="2022-08-22T23:57:00.000-04:00" FlightTime="106" TravelTime="371" Equipment="319" OnTimePerformance="30" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAhWVrBAAAAA==" Origin="DEN" Destination="IAD" DepartureTime="2022-08-22T13:55:00.000-06:00" ArrivalTime="2022-08-22T19:19:00.000-04:00" FlightTime="204" TravelTime="482" Equipment="739" OnTimePerformance="50"/>
+        <air:FlightDetails Key="PvNYSKVqWDKA0WVrBAAAAA==" Origin="DEN" Destination="LGA" DepartureTime="2022-08-22T07:45:00.000-06:00" ArrivalTime="2022-08-22T13:29:00.000-04:00" FlightTime="224" TravelTime="559" Equipment="320" OnTimePerformance="80" DestinationTerminal="B"/>
+        <air:FlightDetails Key="PvNYSKVqWDKA2WVrBAAAAA==" Origin="LGA" Destination="IAD" DepartureTime="2022-08-22T14:47:00.000-04:00" ArrivalTime="2022-08-22T16:19:00.000-04:00" FlightTime="92" TravelTime="559" Equipment="E7W" OriginTerminal="B"/>
+        <air:FlightDetails Key="PvNYSKVqWDKA4WVrBAAAAA==" Origin="IAD" Destination="ATL" DepartureTime="2022-08-22T17:12:00.000-04:00" ArrivalTime="2022-08-22T19:04:00.000-04:00" FlightTime="112" TravelTime="559" Equipment="319" OnTimePerformance="40" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAaXVrBAAAAA==" Origin="DEN" Destination="LGA" DepartureTime="2022-08-22T09:45:00.000-06:00" ArrivalTime="2022-08-22T15:34:00.000-04:00" FlightTime="229" TravelTime="732" Equipment="738" OnTimePerformance="70" DestinationTerminal="B"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAcXVrBAAAAA==" Origin="LGA" Destination="IAD" DepartureTime="2022-08-22T19:05:00.000-04:00" ArrivalTime="2022-08-22T20:43:00.000-04:00" FlightTime="98" TravelTime="732" Equipment="CR5" OriginTerminal="B"/>
+        <air:FlightDetails Key="PvNYSKVqWDKATXVrBAAAAA==" Origin="LGA" Destination="IAD" DepartureTime="2022-08-22T17:29:00.000-04:00" ArrivalTime="2022-08-22T19:07:00.000-04:00" FlightTime="98" TravelTime="732" Equipment="CR5" OriginTerminal="B"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAxXVrBAAAAA==" Origin="DEN" Destination="EWR" DepartureTime="2022-08-22T13:26:00.000-06:00" ArrivalTime="2022-08-22T19:30:00.000-04:00" FlightTime="244" TravelTime="424" Equipment="739" OnTimePerformance="80" DestinationTerminal="C"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAzXVrBAAAAA==" Origin="EWR" Destination="ATL" DepartureTime="2022-08-22T20:08:00.000-04:00" ArrivalTime="2022-08-22T22:30:00.000-04:00" FlightTime="142" TravelTime="424" Equipment="73G" OnTimePerformance="30" OriginTerminal="C" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKACYVrBAAAAA==" Origin="DEN" Destination="EWR" DepartureTime="2022-08-22T12:20:00.000-06:00" ArrivalTime="2022-08-22T18:10:00.000-04:00" FlightTime="230" TravelTime="490" Equipment="789" OnTimePerformance="70" DestinationTerminal="C"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAJYVrBAAAAA==" Origin="DEN" Destination="IAD" DepartureTime="2022-08-22T06:00:00.000-06:00" ArrivalTime="2022-08-22T11:25:00.000-04:00" FlightTime="205" TravelTime="421" Equipment="738" OnTimePerformance="90"/>
+        <air:FlightDetails Key="PvNYSKVqWDKALYVrBAAAAA==" Origin="IAD" Destination="ATL" DepartureTime="2022-08-22T12:55:00.000-04:00" ArrivalTime="2022-08-22T15:01:00.000-04:00" FlightTime="126" TravelTime="421" Equipment="E7W" OnTimePerformance="90" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAXYVrBAAAAA==" Origin="DEN" Destination="ORD" DepartureTime="2022-08-22T11:20:00.000-06:00" ArrivalTime="2022-08-22T14:54:00.000-05:00" FlightTime="154" TravelTime="493" Equipment="739" OnTimePerformance="90" DestinationTerminal="1"/>
+        <air:FlightDetails Key="PvNYSKVqWDKArVVrBAAAAA==" Origin="DEN" Destination="DFW" DepartureTime="2022-08-22T09:51:00.000-06:00" ArrivalTime="2022-08-22T12:51:00.000-05:00" FlightTime="120" TravelTime="588" Equipment="320" OnTimePerformance="70" DestinationTerminal="E"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAjYVrBAAAAA==" Origin="DFW" Destination="IAH" DepartureTime="2022-08-22T16:10:00.000-05:00" ArrivalTime="2022-08-22T17:25:00.000-05:00" FlightTime="75" TravelTime="588" Equipment="319" OnTimePerformance="70" OriginTerminal="E" DestinationTerminal="C"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAvYVrBAAAAA==" Origin="DEN" Destination="DFW" DepartureTime="2022-08-22T07:54:00.000-06:00" ArrivalTime="2022-08-22T10:51:00.000-05:00" FlightTime="117" TravelTime="455" Equipment="319" OnTimePerformance="90" DestinationTerminal="E"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAxYVrBAAAAA==" Origin="DFW" Destination="IAH" DepartureTime="2022-08-22T12:19:00.000-05:00" ArrivalTime="2022-08-22T13:31:00.000-05:00" FlightTime="72" TravelTime="455" Equipment="319" OnTimePerformance="80" OriginTerminal="E" DestinationTerminal="C"/>
+        <air:FlightDetails Key="PvNYSKVqWDKA+YVrBAAAAA==" Origin="DEN" Destination="ORD" DepartureTime="2022-08-22T06:00:00.000-06:00" ArrivalTime="2022-08-22T09:29:00.000-05:00" FlightTime="149" TravelTime="339" Equipment="739" OnTimePerformance="80" DestinationTerminal="1"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAAZVrBAAAAA==" Origin="ORD" Destination="ATL" DepartureTime="2022-08-22T10:36:00.000-05:00" ArrivalTime="2022-08-22T13:39:00.000-04:00" FlightTime="123" TravelTime="339" Equipment="319" OnTimePerformance="70" OriginTerminal="1" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAWZVrBAAAAA==" Origin="DEN" Destination="IAD" DepartureTime="2022-08-22T09:55:00.000-06:00" ArrivalTime="2022-08-22T15:21:00.000-04:00" FlightTime="206" TravelTime="429" Equipment="739" OnTimePerformance="70"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAgZVrBAAAAA==" Origin="DEN" Destination="EWR" DepartureTime="2022-08-22T10:12:00.000-06:00" ArrivalTime="2022-08-22T16:04:00.000-04:00" FlightTime="232" TravelTime="490" Equipment="739" OnTimePerformance="70" DestinationTerminal="C"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAiZVrBAAAAA==" Origin="EWR" Destination="ATL" DepartureTime="2022-08-22T17:49:00.000-04:00" ArrivalTime="2022-08-22T20:22:00.000-04:00" FlightTime="153" TravelTime="490" Equipment="73G" OnTimePerformance="50" OriginTerminal="C" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAOZVrBAAAAA==" Origin="DEN" Destination="EWR" DepartureTime="2022-08-22T05:45:00.000-06:00" ArrivalTime="2022-08-22T11:30:00.000-04:00" FlightTime="225" TravelTime="513" Equipment="739" OnTimePerformance="90" DestinationTerminal="C"/>
+        <air:FlightDetails Key="PvNYSKVqWDKARZVrBAAAAA==" Origin="EWR" Destination="ATL" DepartureTime="2022-08-22T13:50:00.000-04:00" ArrivalTime="2022-08-22T16:18:00.000-04:00" FlightTime="148" TravelTime="513" Equipment="7M8" OnTimePerformance="60" OriginTerminal="C" DestinationTerminal="N"/>
+        <air:FlightDetails Key="PvNYSKVqWDKA2VVrBAAAAA==" Origin="DFW" Destination="IAH" DepartureTime="2022-08-22T14:26:00.000-05:00" ArrivalTime="2022-08-22T15:40:00.000-05:00" FlightTime="74" TravelTime="588" Equipment="E7W" OnTimePerformance="90" OriginTerminal="E" DestinationTerminal="B"/>
+        <air:FlightDetails Key="PvNYSKVqWDKA4ZVrBAAAAA==" Origin="DEN" Destination="SNA" DepartureTime="2022-08-22T07:47:00.000-06:00" ArrivalTime="2022-08-22T09:08:00.000-07:00" FlightTime="141" TravelTime="706" Equipment="738" OnTimePerformance="80"/>
+        <air:FlightDetails Key="PvNYSKVqWDKA6ZVrBAAAAA==" Origin="SNA" Destination="ORD" DepartureTime="2022-08-22T10:54:00.000-07:00" ArrivalTime="2022-08-22T17:03:00.000-05:00" FlightTime="249" TravelTime="706" Equipment="73G" OnTimePerformance="90" DestinationTerminal="1"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAHaVrBAAAAA==" Origin="DEN" Destination="MSP" DepartureTime="2022-08-22T09:54:00.000-06:00" ArrivalTime="2022-08-22T12:52:00.000-05:00" FlightTime="118" TravelTime="579" Equipment="738" OnTimePerformance="90" DestinationTerminal="1"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAJaVrBAAAAA==" Origin="MSP" Destination="ORD" DepartureTime="2022-08-22T15:10:00.000-05:00" ArrivalTime="2022-08-22T16:48:00.000-05:00" FlightTime="98" TravelTime="579" Equipment="320" OnTimePerformance="70" OriginTerminal="1" DestinationTerminal="1"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAuVVrBAAAAA==" Origin="DFW" Destination="ORD" DepartureTime="2022-08-22T14:22:00.000-05:00" ArrivalTime="2022-08-22T16:55:00.000-05:00" FlightTime="153" TravelTime="582" Equipment="320" OnTimePerformance="80" OriginTerminal="E" DestinationTerminal="1"/>
+        <air:FlightDetails Key="PvNYSKVqWDKAIXVrBAAAAA==" Origin="LGA" Destination="ORD" DepartureTime="2022-08-22T15:00:00.000-04:00" ArrivalTime="2022-08-22T16:41:00.000-05:00" FlightTime="161" TravelTime="708" Equipment="319" OnTimePerformance="70" OriginTerminal="B" DestinationTerminal="1"/>
+      </air:FlightDetailsList>
+      <air:AirSegmentList>
+        <air:AirSegment Key="PvNYSKVqWDKAqUVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1596" Origin="DEN" Destination="ATL" DepartureTime="2022-08-22T17:50:00.000-06:00" ArrivalTime="2022-08-22T22:54:00.000-04:00" FlightTime="184" Distance="1207" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKArUVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKA1UVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1177" Origin="DEN" Destination="ATL" DepartureTime="2022-08-22T10:05:00.000-06:00" ArrivalTime="2022-08-22T15:04:00.000-04:00" FlightTime="179" Distance="1207" ETicketability="Yes" Equipment="739" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKA2UVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAKVVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="5975" Origin="DEN" Destination="ATL" DepartureTime="2022-08-22T07:46:00.000-06:00" ArrivalTime="2022-08-22T12:56:00.000-04:00" FlightTime="190" Distance="1207" ETicketability="Yes" Equipment="E7W" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:CodeshareInfo>SKYWEST DBA UNITED EXPRESS</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKALVVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKADVVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="404" Origin="DEN" Destination="IAH" DepartureTime="2022-08-22T12:10:00.000-06:00" ArrivalTime="2022-08-22T15:35:00.000-05:00" FlightTime="145" Distance="876" ETicketability="Yes" Equipment="739" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAEVVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAGVVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="6227" Origin="IAH" Destination="ATL" DepartureTime="2022-08-22T18:24:00.000-05:00" ArrivalTime="2022-08-22T21:39:00.000-04:00" FlightTime="135" Distance="691" ETicketability="Yes" Equipment="E7W" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:CodeshareInfo>MESA AIRLINES DBA UNITED EXPRESS</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAHVVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAUVVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="6302" Origin="IAH" Destination="ATL" DepartureTime="2022-08-22T16:27:00.000-05:00" ArrivalTime="2022-08-22T19:45:00.000-04:00" FlightTime="138" Distance="691" ETicketability="Yes" Equipment="E7W" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:CodeshareInfo>MESA AIRLINES DBA UNITED EXPRESS</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAVVVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKA7VVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="699" Origin="DEN" Destination="IAH" DepartureTime="2022-08-22T09:50:00.000-06:00" ArrivalTime="2022-08-22T13:20:00.000-05:00" FlightTime="150" Distance="876" ETicketability="Yes" Equipment="777" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKA8VVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKA9VVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="2616" Origin="IAH" Destination="ATL" DepartureTime="2022-08-22T14:20:00.000-05:00" ArrivalTime="2022-08-22T17:29:00.000-04:00" FlightTime="129" Distance="691" ETicketability="Yes" Equipment="73G" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKA+VVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKALWVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="313" Origin="DEN" Destination="IAH" DepartureTime="2022-08-22T13:28:00.000-06:00" ArrivalTime="2022-08-22T16:56:00.000-05:00" FlightTime="148" Distance="876" ETicketability="Yes" Equipment="739" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAMWVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKASWVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="640" Origin="DEN" Destination="ORD" DepartureTime="2022-08-22T13:33:00.000-06:00" ArrivalTime="2022-08-22T17:07:00.000-05:00" FlightTime="154" Distance="903" ETicketability="Yes" Equipment="752" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKATWVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAwVVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="5336" Origin="ORD" Destination="ATL" DepartureTime="2022-08-22T18:07:00.000-05:00" ArrivalTime="2022-08-22T21:33:00.000-04:00" FlightTime="146" Distance="600" ETicketability="Yes" Equipment="E7W" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:CodeshareInfo>SKYWEST DBA UNITED EXPRESS</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAxVVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAoWVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="672" Origin="DEN" Destination="IAD" DepartureTime="2022-08-22T15:46:00.000-06:00" ArrivalTime="2022-08-22T21:08:00.000-04:00" FlightTime="202" Distance="1473" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKApWVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAjWVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="2341" Origin="IAD" Destination="ATL" DepartureTime="2022-08-22T22:11:00.000-04:00" ArrivalTime="2022-08-22T23:57:00.000-04:00" FlightTime="106" Distance="541" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAkWVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAgWVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="461" Origin="DEN" Destination="IAD" DepartureTime="2022-08-22T13:55:00.000-06:00" ArrivalTime="2022-08-22T19:19:00.000-04:00" FlightTime="204" Distance="1473" ETicketability="Yes" Equipment="739" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAhWVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAzWVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1545" Origin="DEN" Destination="LGA" DepartureTime="2022-08-22T07:45:00.000-06:00" ArrivalTime="2022-08-22T13:29:00.000-04:00" FlightTime="224" Distance="1621" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKA0WVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKA1WVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="3623" Origin="LGA" Destination="IAD" DepartureTime="2022-08-22T14:47:00.000-04:00" ArrivalTime="2022-08-22T16:19:00.000-04:00" FlightTime="92" Distance="221" ETicketability="Yes" Equipment="E7W" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="O and D cache or polled status used with different local status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:CodeshareInfo>REPUBLIC AIRWAYS DBA UNITED EXPRESS</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKA2WVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKA3WVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="2339" Origin="IAD" Destination="ATL" DepartureTime="2022-08-22T17:12:00.000-04:00" ArrivalTime="2022-08-22T19:04:00.000-04:00" FlightTime="112" Distance="541" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="O and D cache or polled status used with different local status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKA4WVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAZXVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1586" Origin="DEN" Destination="LGA" DepartureTime="2022-08-22T09:45:00.000-06:00" ArrivalTime="2022-08-22T15:34:00.000-04:00" FlightTime="229" Distance="1621" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAaXVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAbXVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="4410" Origin="LGA" Destination="IAD" DepartureTime="2022-08-22T19:05:00.000-04:00" ArrivalTime="2022-08-22T20:43:00.000-04:00" FlightTime="98" Distance="221" ETicketability="Yes" Equipment="CR5" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="O and D cache or polled status used with different local status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:CodeshareInfo>GOJET AIRLINES DBA UNITED EXPRESS</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAcXVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKASXVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="4502" Origin="LGA" Destination="IAD" DepartureTime="2022-08-22T17:29:00.000-04:00" ArrivalTime="2022-08-22T19:07:00.000-04:00" FlightTime="98" Distance="221" ETicketability="Yes" Equipment="CR5" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="O and D cache or polled status used with different local status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:CodeshareInfo>GOJET AIRLINES DBA UNITED EXPRESS</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKATXVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAwXVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="496" Origin="DEN" Destination="EWR" DepartureTime="2022-08-22T13:26:00.000-06:00" ArrivalTime="2022-08-22T19:30:00.000-04:00" FlightTime="244" Distance="1621" ETicketability="Yes" Equipment="739" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAxXVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAyXVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="2113" Origin="EWR" Destination="ATL" DepartureTime="2022-08-22T20:08:00.000-04:00" ArrivalTime="2022-08-22T22:30:00.000-04:00" FlightTime="142" Distance="762" ETicketability="Yes" Equipment="73G" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAzXVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKABYVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1572" Origin="DEN" Destination="EWR" DepartureTime="2022-08-22T12:20:00.000-06:00" ArrivalTime="2022-08-22T18:10:00.000-04:00" FlightTime="230" Distance="1621" ETicketability="Yes" Equipment="789" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKACYVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAIYVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="394" Origin="DEN" Destination="IAD" DepartureTime="2022-08-22T06:00:00.000-06:00" ArrivalTime="2022-08-22T11:25:00.000-04:00" FlightTime="205" Distance="1473" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAJYVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAKYVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="6110" Origin="IAD" Destination="ATL" DepartureTime="2022-08-22T12:55:00.000-04:00" ArrivalTime="2022-08-22T15:01:00.000-04:00" FlightTime="126" Distance="541" ETicketability="Yes" Equipment="E7W" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:CodeshareInfo>MESA AIRLINES DBA UNITED EXPRESS</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKALYVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAWYVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="2312" Origin="DEN" Destination="ORD" DepartureTime="2022-08-22T11:20:00.000-06:00" ArrivalTime="2022-08-22T14:54:00.000-05:00" FlightTime="154" Distance="903" ETicketability="Yes" Equipment="739" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAXYVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAqVVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="550" Origin="DEN" Destination="DFW" DepartureTime="2022-08-22T09:51:00.000-06:00" ArrivalTime="2022-08-22T12:51:00.000-05:00" FlightTime="120" Distance="650" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKArVVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAiYVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1604" Origin="DFW" Destination="IAH" DepartureTime="2022-08-22T16:10:00.000-05:00" ArrivalTime="2022-08-22T17:25:00.000-05:00" FlightTime="75" Distance="233" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="O and D cache or polled status used with different local status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAjYVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAuYVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1291" Origin="DEN" Destination="DFW" DepartureTime="2022-08-22T07:54:00.000-06:00" ArrivalTime="2022-08-22T10:51:00.000-05:00" FlightTime="117" Distance="650" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAvYVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAwYVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1844" Origin="DFW" Destination="IAH" DepartureTime="2022-08-22T12:19:00.000-05:00" ArrivalTime="2022-08-22T13:31:00.000-05:00" FlightTime="72" Distance="233" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAxYVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKA9YVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="532" Origin="DEN" Destination="ORD" DepartureTime="2022-08-22T06:00:00.000-06:00" ArrivalTime="2022-08-22T09:29:00.000-05:00" FlightTime="149" Distance="903" ETicketability="Yes" Equipment="739" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKA+YVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKA/YVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1614" Origin="ORD" Destination="ATL" DepartureTime="2022-08-22T10:36:00.000-05:00" ArrivalTime="2022-08-22T13:39:00.000-04:00" FlightTime="123" Distance="600" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAAZVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAVZVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="2087" Origin="DEN" Destination="IAD" DepartureTime="2022-08-22T09:55:00.000-06:00" ArrivalTime="2022-08-22T15:21:00.000-04:00" FlightTime="206" Distance="1473" ETicketability="Yes" Equipment="739" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAWZVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAfZVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1729" Origin="DEN" Destination="EWR" DepartureTime="2022-08-22T10:12:00.000-06:00" ArrivalTime="2022-08-22T16:04:00.000-04:00" FlightTime="232" Distance="1621" ETicketability="Yes" Equipment="739" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAgZVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAhZVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1209" Origin="EWR" Destination="ATL" DepartureTime="2022-08-22T17:49:00.000-04:00" ArrivalTime="2022-08-22T20:22:00.000-04:00" FlightTime="153" Distance="762" ETicketability="Yes" Equipment="73G" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAiZVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKANZVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1812" Origin="DEN" Destination="EWR" DepartureTime="2022-08-22T05:45:00.000-06:00" ArrivalTime="2022-08-22T11:30:00.000-04:00" FlightTime="225" Distance="1621" ETicketability="Yes" Equipment="739" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAOZVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAQZVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="730" Origin="EWR" Destination="ATL" DepartureTime="2022-08-22T13:50:00.000-04:00" ArrivalTime="2022-08-22T16:18:00.000-04:00" FlightTime="148" Distance="762" ETicketability="Yes" Equipment="7M8" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKARZVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKA1VVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="6041" Origin="DFW" Destination="IAH" DepartureTime="2022-08-22T14:26:00.000-05:00" ArrivalTime="2022-08-22T15:40:00.000-05:00" FlightTime="74" Distance="233" ETicketability="Yes" Equipment="E7W" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:CodeshareInfo>MESA AIRLINES DBA UNITED EXPRESS</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKA2VVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKA3ZVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="2666" Origin="DEN" Destination="SNA" DepartureTime="2022-08-22T07:47:00.000-06:00" ArrivalTime="2022-08-22T09:08:00.000-07:00" FlightTime="141" Distance="832" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKA4ZVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKA5ZVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="1980" Origin="SNA" Destination="ORD" DepartureTime="2022-08-22T10:54:00.000-07:00" ArrivalTime="2022-08-22T17:03:00.000-05:00" FlightTime="249" Distance="1726" ETicketability="Yes" Equipment="73G" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="O and D cache or polled status used with different local status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKA6ZVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAGaVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="459" Origin="DEN" Destination="MSP" DepartureTime="2022-08-22T09:54:00.000-06:00" ArrivalTime="2022-08-22T12:52:00.000-05:00" FlightTime="118" Distance="693" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Point to point cache or polled status used with different O and D status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAHaVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAIaVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="2192" Origin="MSP" Destination="ORD" DepartureTime="2022-08-22T15:10:00.000-05:00" ArrivalTime="2022-08-22T16:48:00.000-05:00" FlightTime="98" Distance="341" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="O and D cache or polled status used with different local status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAJaVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAtVVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="597" Origin="DFW" Destination="ORD" DepartureTime="2022-08-22T14:22:00.000-05:00" ArrivalTime="2022-08-22T16:55:00.000-05:00" FlightTime="153" Distance="799" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="O and D cache or polled status used with different local status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAuVVrBAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="PvNYSKVqWDKAHXVrBAAAAA==" Group="0" Carrier="UA" FlightNumber="2167" Origin="LGA" Destination="ORD" DepartureTime="2022-08-22T15:00:00.000-04:00" ArrivalTime="2022-08-22T16:41:00.000-05:00" FlightTime="161" Distance="720" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="O and D cache or polled status used with different local status" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="Fare Shop/Optimal Shop">
+          <air:AirAvailInfo ProviderCode="1G"/>
+          <air:FlightDetailsRef Key="PvNYSKVqWDKAIXVrBAAAAA=="/>
+        </air:AirSegment>
+      </air:AirSegmentList>
+      <air:FareInfoList>
+        <air:FareInfo Key="PvNYSKVqWDKAyUVrBAAAAA==" FareBasis="QAA0OKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD310.70" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAyUVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwjAMRD8mut02IdAtFslU1ArRDl36/5+B7RbBxbZk3+XVWoVE6M6l/ithT6tifTdggljr8sSF6UZg2yaQCS9VmsduiYCIhPV7jC2CFo2ysbnhOmfrzjrI5jMSqHRWtqwjMuX4jti0LUG6lgwahi+8P0aBKYh+gGH2D+A/Lv0=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAYaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKA8UVrBAAAAA==" FareBasis="EAA0OKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD515.35" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKA8UVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwzAIRD/Guh2obSWbUe0pVTokGbLk/z+jQFu1Z0CCO7/WmpAITVzbvxKudCiOrQMrxFr3BwqXWwHbtoJMGKr0XIYlAiIS1u8xzghaNMrG6YbrM/tw1ptsPiOB6mBlyzoiU47viE37HqRSM2iev/BxXwSmIPoBhrle4NMvAQ==</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAaaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAbVVrBAAAAA==" FareBasis="QAA0OKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="IAH" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD264.19" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAbVVrBAAAAA==" ProviderCode="1G">gws-eJxNjMEKwzAMQz8m6G6bLCy3mCXQUegoXQ+99P8/Y7a3sSmxwJHyWmtCInTl0v6VcKZdsW8dWCA2d50gJXMF27aATFhV6TEPawREJKLfYRxRtGpcs8MD18f7cNabbDkjgcpgZes6IlOO74hN+zNIF7dav/BxmwWmIPoDDHO+AN9nLvo=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAcaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAcVVrBAAAAA==" FareBasis="UAA0OKEN" PassengerTypeCode="ADT" Origin="IAH" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD320.00" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAcVVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOgzAMRD8mut02FJUtVolUBKIDZGDh/z+jtimil/gU504v5ywkQk/u8r8SjlQVdR2ABWKj24xGiCi2BeTPqkqfqVgjIHJG92HsUbRqXLPdA9fPR31bcJJtGAnUFVa23REttREhNh22ID3c+v6Cl9ckMAXRP2CY4wvaVS7n</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAeaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAEWVrBAAAAA==" FareBasis="HAA0OKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="IAH" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD301.40" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAEWVrBAAAAA==" ProviderCode="1G">gws-eJxNjMEOwjAMQz9m8j0JZWK3RrTS0KRxgB122f9/Bk4AgdtYSu2+WquJmVx0rP8acAybY3s0YIVxbj7jJFoEym2FUJjd5b50NhJiltHvKPYsspqXtkcQ+njrwXqTmSsGyNjVld1AFCn5Hbl5eybpHDZNX3i/LgYqifEAYo4Xy+8u1Q==</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAgaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAZWVrBAAAAA==" FareBasis="MAA0OKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD636.28" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAZWVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwzAIRD/Guh2oi5LNqPaUNhmaDFny/59RTBO1Z0CCO79SipAIDazlXwlH2gzbuwIzxNvWJ/SmMoB9m0EuvMxomZonAiIS1u8x9gh6NMrH3o2uc9bWWV+y+4wE0sbGnu2ITDm+Izara5DumkHjeMHbYxK4gtgPcMzxAevBLxU=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAiaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKA+WVrBAAAAA==" FareBasis="EAA0OHEN" PassengerTypeCode="ADT" Origin="DEN" Destination="LGA" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD543.26" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKA+WVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwzAIRD/Guh2o4zabUY2aIUqHNkOW/P9nFJNU7RmQ4M6v1iokQjcu9V8Je1oV66sBC8R7fiiGfJEC9m0BuWCq9JzMEwERCev3GFsEPRrlY+tG1zmbddZBdp+RQMVY2bMdkSnHd8Sm7R2koVxB4/iF230SuILYD3DM/gHXRS7z</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAkaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAKXVrBAAAAA==" FareBasis="WAA3AKEN" PassengerTypeCode="ADT" Origin="LGA" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD166.51" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAKXVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOgzAMRD8mut12IYItVok6gFgKqlj4/8/oxbRqL7Yl+y6vlGJiJoPm8q+EM+2O/TkBK4zt2wLNudfYVgiFl/vN58pEQOyyfk9xRJDRKI6jGU2fuTycxkWmr0iQXNWV2YbopIvviM2nLUh9HiDj+IXX+2yggtgOIOZ8A+WWLwo=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAmaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKA5XVrBAAAAA==" FareBasis="EAA0OHEN" PassengerTypeCode="ADT" Origin="DEN" Destination="EWR" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD543.26" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKA5XVrBAAAAA==" ProviderCode="1G">gws-eJxNjEEOwzAIBB9j7R2IY9U3oxopp1RqG1W55P/PKKaN2jUgwa6ntSYkQhcu7V8JR9oU26MDK8TbXnfMeZIC9m0FuWCqdFvMEwERCev3GHsEPRrlYx/G0Hd2G6wP2X1GAhVjZc8ORKYc3xGb9meQ5qmCaj3hdl0EriCOAxxzvAHpGy8M</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAoaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKA/XVrBAAAAA==" FareBasis="WAA3OHEN" PassengerTypeCode="ADT" Origin="EWR" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD171.16" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKA/XVrBAAAAA==" ProviderCode="1G">gws-eJxNjMEOgkAMRD+GzL2tuMJtG9mEg8FEIYQL//8ZzhaJzrZN2pl9OWcTM+k05X812JvFsbwHYIKxfX5Ab6optglCYXW/PMfCREDssH5PsUWQ0SiOrRpV31nWF42DTF/RQFJRV2YropU2viM2H+YgXVMH6fsTXu6jgQpiPYCY/QPx/S8m</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAqaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKARYVrBAAAAA==" FareBasis="EAA0OKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="IAD" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD533.95" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKARYVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwjAMRD8mut12kopssYgHVKkM0KFL//8zcAwILrYl+y6v9y4kQhde+r8SzrQr9scANoj3TQdqzq2CfdtALpgq3VfzREBEwvo9xhFBj0b5OKYx9ZnDJutNdp+RQIuxsmcnolCJ74hNxzNINRdQa1+4XVeBK4jzAMecL9k5Lvc=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAsaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKASYVrBAAAAA==" FareBasis="QAA0OKEN" PassengerTypeCode="ADT" Origin="IAD" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD199.07" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKASYVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwjAMRD8mut02JZAtVpMBFRUh2qFL//8z6jhUcLEt2Xd5OWchEbpzzP8K2MOqWD8FmCHWujzBKdHNtxlkwluVXlO1hEOkW7/H2DxoUS8bWzOavvOhxYxONp8RQLGysmUbYqDBv8M3LYuTrvECSumE13ESmJzYDjDMfgDspC8S</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAuaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAdYVrBAAAAA==" FareBasis="EAA0OKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="ORD" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD450.23" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAdYVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwzAIRD/Guh2oE9WbUc0UKZHaZsiS//+MAm3VngEJ7vx670IidOW5/6vgLLtifwxghXhv94E6kVzAvq0gF0yVtsU8kRCRtH6PcWTQo1k+jjBCnzksWG+y+4wCmo2VPRuISjW/IzcdzyRNrYJa+8LttghcSYwDHHO+AN8rLv4=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAwaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAeYVrBAAAAA==" FareBasis="UAA0OKEN" PassengerTypeCode="ADT" Origin="ORD" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD292.09" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAeYVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOgzAMRD8mut22KKq3WE0mKpAKGVj4/8+oY4roxbZk3+XlnIVE6Mlj/lfCkZqhrQWYId62vSEqpLHNIBeaGS1T9URA5LTux9gj6NEoH3s3un5z+RQ3TrL7jAQaKxt7tiMGGuI7YrOyBemhDFK94PU1CVxB7Ac45vgC81ovJg==</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAyaVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAiVVrBAAAAA==" FareBasis="EAA0OKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="DFW" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD366.51" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAiVVrBAAAAA==" ProviderCode="1G">gws-eJxNjMEOAjEIRD+mmTvgbmNvJRYvm6wH3Zi97P9/hoAanQIJzPT13oVE6My1/6vgKJtiuw9ghXiP6xOnWmcG+7aCXDBVui3miYSIpPV7jD2DHs3ysYcR+sxhwXqT3WcUUDVW9mwgJpryO3LT8UjS3ATU2hdul0XgSmIc4JjjBeL/LwY=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKA0aVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKApYVrBAAAAA==" FareBasis="UAA0OKEN" PassengerTypeCode="ADT" Origin="DFW" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD386.05" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKApYVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOgzAMRD8mut12IYUtVhMWKjqUqGLh/z+jjqEqF9uSfZeXUhISoYFjuipgD1VR3xlYINa6PnEbIvW+LSATqiq95mIJh8hh/R9j86BFvWxszWg6Z54+Zhxk8xkBFAsrW7YhOur8O3zTvDqpj3fQOP7g5TELTE5sBxhm/wLyTC8l</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKA2aVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKA3YVrBAAAAA==" FareBasis="UAA0OKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="DFW" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD301.40" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKA3YVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwzAIRD/Guh2oG8WbUe0ukdIhtaos+f/PKNBG7RmQ4M6v1iokQjNP9V8JRxqKsTVghVi3+wsX4kxg21aQCUOVHku3REBEwvo9xh5Bi0bZ2N1wfWfrzvqQzWck0NRZ2bKOyJTjO2LT9gzStQiolBPeb4vAFEQ/wDDHG9/ZLvw=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKA4aVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKA4YVrBAAAAA==" FareBasis="WAA0OKEN" PassengerTypeCode="ADT" Origin="DFW" Destination="IAH" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD133.95" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKA4YVrBAAAAA==" ProviderCode="1G">gws-eJxNjEEOgzAMBB8T7d02FDW3WE1QKyR6AIS48P9n1DEgurEt2buZlJKQCD25S/8K2MOiWKYMjBDrj77BTRMfvo0gE1ZV+g7FEg6Rw7ofY/OgRb1sbNWoOmfuVzMOsvmMAOoKK1u2Ilpq/Tt80zyfJAbFeMHLaxCYnFgPMMz+A+WfLwU=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKA6aVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAGZVrBAAAAA==" FareBasis="BAA0ADEN" PassengerTypeCode="ADT" Origin="DEN" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD822.33" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAGZVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwzAIRD/Guh2wayWbae2typJkyJL//4wAbdWcMRLc8VprQiI0cW13JZxpV+xrBxaIfd3emERyBtu0gEx4qpL2YYmAiIT1f4wjghaNsna44fp2vyb6kM1nJFAdWdmyjihU4hwxad+C9KgFNM8/+Hh1gSmIvoBhzgvRci7i</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKA8aVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAyVVrBAAAAA==" FareBasis="QAA0OKEN" PassengerTypeCode="ADT" Origin="DFW" Destination="IAH" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD189.77" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAyVVrBAAAAA==" ProviderCode="1G">gws-eJxNjNEKgzAMRT+m3PckiNq3BltxCI6xyfDF//8M06hst0kgubcnpSQkQj236V8Be1gV6zsDC8T6oRO4j13n2wIy4aVKz7lYwiFyWr/H2DxoUS8bWzWqrpnHrxkn2XxGALWFlS1bEQ01/h2+af5cJAbFeMPLMAtMTqwHGGY/AOzxLxU=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKA+aVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAxZVrBAAAAA==" FareBasis="HAA0OKEN" PassengerTypeCode="ADT" Origin="IAH" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD264.19" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAxZVrBAAAAA==" ProviderCode="1G">gws-eJxNjMEOwjAMQz9m8j0JpaK3RqzS0NA4sB122f9/Bm4AgdtYSu2+WquJmVw0138NOIbNsT1HYIFxfL3DctKCE7cFQmFyl8fc2AiIWUS/o9ijyGpc2t6Dro/ffGLwJjNXDJDc1JXdjkiS4jti83EN0rlbKV94u84GKoj9AcQcL+PWLv0=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAAbVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAAaVrBAAAAA==" FareBasis="VAA3AKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="SNA" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD202.79" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAAaVrBAAAAA==" ProviderCode="1G">gws-eJxNjEsOwzAIRA9jzR5omtQ7o9qrSN7kI2WT+x+jQFqlY0CCGb9SipAIvXgs/0o406bYlgp0iPXSFRadMti2DjJhV33o3DouiEhY92McEbRolI3DDdd31uasi2w+I4HGxsqWdcRAQ3xHbFrXID3zBMr5B2/vWWAKoh9gmPMD5zQvEA==</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKACbVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKABaVrBAAAAA==" FareBasis="MAA0OFEN" PassengerTypeCode="ADT" Origin="SNA" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD711.63" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKABaVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwjAMRD8mut02VaBbLJpOEIa2Q5f+/2dwcUFwsS3Zd3mlFBMzuWku/0o40ubYlgloMLavD1xV8yW2BqHwdJfXXJkIiJ3W7yn2CDIaxbF3o+szl+Y0TjJ9RYLkqq7MdsQgQ3xHbD6tQcrK9Dh+4fU+G6gg9gOIOd7lXS8E</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAEbVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAPaVrBAAAAA==" FareBasis="MAA0OKEN" PassengerTypeCode="ADT" Origin="DEN" Destination="MSP" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD459.53" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAPaVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwjAMRD8mut02SUW2WCRT1YJUOnTp/38GtgHBJT7JuctrrQmJ0JWn9q+EM+2KfevACrFZtgdyqeUCtm0FmbCo0n0e1giISES/wziiaNW4ZocHro/34aw32XJGAk2Dla3riEw5viM27c8gFbdav/BxmwWmIPoDDHO+APXdLxw=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAGbVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAQaVrBAAAAA==" FareBasis="EAA0OFEN" PassengerTypeCode="ADT" Origin="MSP" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD460.47" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAQaVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOgzAMRD8mut1xo7RssUqYgFYCBhb+/zN6MVTtxbZk3+WVUlRU5RFz+VfAETbDtvTADGXbOiJlSXffZgiFaiavoTLhED2t34vYPcioF8fejKZrTsubxkmmHxEguUaLzDZEkuTf4Zv1q5Oy3CBd94XX56CgnNgOIOb4AOgSLw8=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAIbVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAoVVrBAAAAA==" FareBasis="MAA0OKEN" PassengerTypeCode="ADT" Origin="DFW" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD572.09" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAoVVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOgzAMRD8mut22IDRbrCZdoHQoqGLh/z+jjikqF9uSfZeXcxYSoRvHfFXAHlbF+i7ADLHWZUI/CCXfZpAJT1V6jdUSDpHD+j/G5kGLetnYmtH0m+XxMeMgm88IoFhZ2bIN0VHn3+GblsVJfRxAKZ3weh8FJie2AwyzfwHuUi8f</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAKbVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+        <air:FareInfo Key="PvNYSKVqWDKAEXVrBAAAAA==" FareBasis="MAA0OKEN" PassengerTypeCode="ADT" Origin="LGA" Destination="ATL" EffectiveDate="2022-08-17T00:33:00.000+09:00" DepartureDate="2022-08-22" Amount="USD496.74" NegotiatedFare="false">
+          <air:BaggageAllowance>
+            <air:NumberOfPieces>0</air:NumberOfPieces>
+            <air:MaxWeight/>
+          </air:BaggageAllowance>
+          <air:FareRuleKey FareInfoRef="PvNYSKVqWDKAEXVrBAAAAA==" ProviderCode="1G">gws-eJxNjLEOwjAMRD8mut2xQmi2WDRiaCkD7dCl//8ZXFwQXGxL9l1erVVFVYaY678CjrAZttcILFC2rTNSydfk2wKh8DCT59SYcIie1u9F7B5k1Itj70bXZ853o3GS6UcESG7RIrMdkST5d/hm4+qkSx4gpXzh7TYpKCf2A4g53vEHLyE=</air:FareRuleKey>
+          <air:Brand Key="PvNYSKVqWDKAMbVrBAAAAA==" BrandID="1118016"/>
+        </air:FareInfo>
+      </air:FareInfoList>
+      <air:RouteList>
+        <air:Route Key="PvNYSKVqWDKAWaVrBAAAAA==">
+          <air:Leg Key="PvNYSKVqWDKAsUVrBAAAAA==" Group="0" Origin="DEN" Destination="ATL"/>
+        </air:Route>
+      </air:RouteList>
+      <air:AirPricingSolution Key="PvNYSKVqWDKApUVrBAAAAA==" TotalPrice="USD348.60" BasePrice="USD310.70" ApproximateTotalPrice="USD348.60" ApproximateBasePrice="USD310.70" Taxes="USD37.90" ApproximateTaxes="USD37.90">
+        <air:Journey TravelTime="P0DT3H4M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAqUVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAtUVrBAAAAA==" TotalPrice="USD348.60" BasePrice="USD310.70" ApproximateTotalPrice="USD348.60" ApproximateBasePrice="USD310.70" Taxes="USD37.90" ApproximateTaxes="USD37.90" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAyUVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Q" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAyUVrBAAAAA==" SegmentRef="PvNYSKVqWDKAqUVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAuUVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD23.30" Key="PvNYSKVqWDKAvUVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD4.50" Key="PvNYSKVqWDKAwUVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD4.50" Key="PvNYSKVqWDKAxUVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA ATL 310.70QAA0OKEN USD310.70END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKA0UVrBAAAAA==" TotalPrice="USD568.65" BasePrice="USD515.35" ApproximateTotalPrice="USD568.65" ApproximateBasePrice="USD515.35" Taxes="USD53.30" ApproximateTaxes="USD53.30">
+        <air:Journey TravelTime="P0DT2H59M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKA1UVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKA3UVrBAAAAA==" TotalPrice="USD568.65" BasePrice="USD515.35" ApproximateTotalPrice="USD568.65" ApproximateBasePrice="USD515.35" Taxes="USD53.30" ApproximateTaxes="USD53.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA8UVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA8UVrBAAAAA==" SegmentRef="PvNYSKVqWDKA1UVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKA4UVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD38.70" Key="PvNYSKVqWDKA5UVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD4.50" Key="PvNYSKVqWDKA6UVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD4.50" Key="PvNYSKVqWDKA7UVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA ATL 515.35EAA0OKEN USD515.35END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAJVVrBAAAAA==" TotalPrice="USD568.65" BasePrice="USD515.35" ApproximateTotalPrice="USD568.65" ApproximateBasePrice="USD515.35" Taxes="USD53.30" ApproximateTaxes="USD53.30">
+        <air:Journey TravelTime="P0DT3H10M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAKVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAMVVrBAAAAA==" TotalPrice="USD568.65" BasePrice="USD515.35" ApproximateTotalPrice="USD568.65" ApproximateBasePrice="USD515.35" Taxes="USD53.30" ApproximateTaxes="USD53.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA8UVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="4" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA8UVrBAAAAA==" SegmentRef="PvNYSKVqWDKAKVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKANVVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD38.70" Key="PvNYSKVqWDKAOVVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD4.50" Key="PvNYSKVqWDKAPVVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD4.50" Key="PvNYSKVqWDKAQVVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA ATL 515.35EAA0OKEN USD515.35END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKASVVrBAAAAA==" TotalPrice="USD577.65" BasePrice="USD515.35" ApproximateTotalPrice="USD577.65" ApproximateBasePrice="USD515.35" Taxes="USD62.30" ApproximateTaxes="USD62.30">
+        <air:Journey TravelTime="P0DT7H29M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKADVVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAGVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKA9UVrBAAAAA==" TotalPrice="USD577.65" BasePrice="USD515.35" ApproximateTotalPrice="USD577.65" ApproximateBasePrice="USD515.35" Taxes="USD62.30" ApproximateTaxes="USD62.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA8UVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="2" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA8UVrBAAAAA==" SegmentRef="PvNYSKVqWDKADVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="2" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA8UVrBAAAAA==" SegmentRef="PvNYSKVqWDKAGVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKA-UVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD38.70" Key="PvNYSKVqWDKA/UVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAAVVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKABVVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA X/HOU UA ATL 515.35EAA0OKEN USD515.35END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKATVVrBAAAAA==" TotalPrice="USD651.59" BasePrice="USD584.19" ApproximateTotalPrice="USD651.59" ApproximateBasePrice="USD584.19" Taxes="USD67.40" ApproximateTaxes="USD67.40">
+        <air:Journey TravelTime="P0DT5H35M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKADVVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAUVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAWVVrBAAAAA==" TotalPrice="USD651.59" BasePrice="USD584.19" ApproximateTotalPrice="USD651.59" ApproximateBasePrice="USD584.19" Taxes="USD67.40" ApproximateTaxes="USD67.40" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAbVVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAcVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Q" BookingCount="1" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAbVVrBAAAAA==" SegmentRef="PvNYSKVqWDKADVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="U" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAcVVrBAAAAA==" SegmentRef="PvNYSKVqWDKAUVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAXVVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD43.80" Key="PvNYSKVqWDKAYVVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAZVVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKAaVVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA HOU 264.19QAA0OKEN UA ATL 320.00UAA0OKEN USD584.19END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKA6VVrBAAAAA==" TotalPrice="USD691.60" BasePrice="USD621.40" ApproximateTotalPrice="USD691.60" ApproximateBasePrice="USD621.40" Taxes="USD70.20" ApproximateTaxes="USD70.20">
+        <air:Journey TravelTime="P0DT5H39M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKA7VVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKA9VVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKA/VVrBAAAAA==" TotalPrice="USD691.60" BasePrice="USD621.40" ApproximateTotalPrice="USD691.60" ApproximateBasePrice="USD621.40" Taxes="USD70.20" ApproximateTaxes="USD70.20" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAEWVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAcVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="H" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAEWVrBAAAAA==" SegmentRef="PvNYSKVqWDKA7VVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="U" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAcVVrBAAAAA==" SegmentRef="PvNYSKVqWDKA9VVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAAWVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD46.60" Key="PvNYSKVqWDKABWVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKACWVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKADWVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA HOU 301.40HAA0OKEN UA ATL 320.00UAA0OKEN USD621.40END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAQWVrBAAAAA==" TotalPrice="USD691.60" BasePrice="USD621.40" ApproximateTotalPrice="USD691.60" ApproximateBasePrice="USD621.40" Taxes="USD70.20" ApproximateTaxes="USD70.20">
+        <air:Journey TravelTime="P0DT6H11M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKALWVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAGVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAFWVrBAAAAA==" TotalPrice="USD691.60" BasePrice="USD621.40" ApproximateTotalPrice="USD691.60" ApproximateBasePrice="USD621.40" Taxes="USD70.20" ApproximateTaxes="USD70.20" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAEWVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAcVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="H" BookingCount="6" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAEWVrBAAAAA==" SegmentRef="PvNYSKVqWDKALWVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="U" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAcVVrBAAAAA==" SegmentRef="PvNYSKVqWDKAGVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAGWVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD46.60" Key="PvNYSKVqWDKAHWVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAIWVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKAJWVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA HOU 301.40HAA0OKEN UA ATL 320.00UAA0OKEN USD621.40END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKARWVrBAAAAA==" TotalPrice="USD707.58" BasePrice="USD636.28" ApproximateTotalPrice="USD707.58" ApproximateBasePrice="USD636.28" Taxes="USD71.30" ApproximateTaxes="USD71.30">
+        <air:Journey TravelTime="P0DT6H0M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKASWVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAwVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAUWVrBAAAAA==" TotalPrice="USD707.58" BasePrice="USD636.28" ApproximateTotalPrice="USD707.58" ApproximateBasePrice="USD636.28" Taxes="USD71.30" ApproximateTaxes="USD71.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAZWVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="1" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAZWVrBAAAAA==" SegmentRef="PvNYSKVqWDKASWVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="1" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAZWVrBAAAAA==" SegmentRef="PvNYSKVqWDKAwVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAVWVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD47.70" Key="PvNYSKVqWDKAWWVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAXWVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="ORD"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKAYWVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="ORD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA X/CHI UA ATL 636.28MAA0OKEN USD636.28END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAnWVrBAAAAA==" TotalPrice="USD707.58" BasePrice="USD636.28" ApproximateTotalPrice="USD707.58" ApproximateBasePrice="USD636.28" Taxes="USD71.30" ApproximateTaxes="USD71.30">
+        <air:Journey TravelTime="P0DT6H11M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAoWVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAjWVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAqWVrBAAAAA==" TotalPrice="USD707.58" BasePrice="USD636.28" ApproximateTotalPrice="USD707.58" ApproximateBasePrice="USD636.28" Taxes="USD71.30" ApproximateTaxes="USD71.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAZWVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="7" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAZWVrBAAAAA==" SegmentRef="PvNYSKVqWDKAoWVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="7" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAZWVrBAAAAA==" SegmentRef="PvNYSKVqWDKAjWVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKArWVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD47.70" Key="PvNYSKVqWDKAsWVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAtWVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKAuWVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA X/WAS UA ATL 636.28MAA0OKEN USD636.28END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAxWVrBAAAAA==" TotalPrice="USD707.58" BasePrice="USD636.28" ApproximateTotalPrice="USD707.58" ApproximateBasePrice="USD636.28" Taxes="USD71.30" ApproximateTaxes="USD71.30">
+        <air:Journey TravelTime="P0DT8H2M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAgWVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAjWVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAaWVrBAAAAA==" TotalPrice="USD707.58" BasePrice="USD636.28" ApproximateTotalPrice="USD707.58" ApproximateBasePrice="USD636.28" Taxes="USD71.30" ApproximateTaxes="USD71.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAZWVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAZWVrBAAAAA==" SegmentRef="PvNYSKVqWDKAgWVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAZWVrBAAAAA==" SegmentRef="PvNYSKVqWDKAjWVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAbWVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD47.70" Key="PvNYSKVqWDKAcWVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAdWVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKAeWVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA X/WAS UA ATL 636.28MAA0OKEN USD636.28END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAyWVrBAAAAA==" TotalPrice="USD791.07" BasePrice="USD709.77" ApproximateTotalPrice="USD791.07" ApproximateBasePrice="USD709.77" Taxes="USD81.30" ApproximateTaxes="USD81.30">
+        <air:Journey TravelTime="P0DT9H19M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAzWVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKA1WVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKA3WVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKA5WVrBAAAAA==" TotalPrice="USD791.07" BasePrice="USD709.77" ApproximateTotalPrice="USD791.07" ApproximateBasePrice="USD709.77" Taxes="USD81.30" ApproximateTaxes="USD81.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA+WVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAKXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA+WVrBAAAAA==" SegmentRef="PvNYSKVqWDKAzWVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="5" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAKXVrBAAAAA==" SegmentRef="PvNYSKVqWDKA1WVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="1" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAKXVrBAAAAA==" SegmentRef="PvNYSKVqWDKA3WVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKA6WVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD53.20" Key="PvNYSKVqWDKA7WVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKA8WVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="LGA"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKA9WVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="LGA"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA NYC 543.26EAA0OHEN UA X/WAS UA ATL 166.51WAA3AKEN USD709.77END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAYXVrBAAAAA==" TotalPrice="USD791.07" BasePrice="USD709.77" ApproximateTotalPrice="USD791.07" ApproximateBasePrice="USD709.77" Taxes="USD81.30" ApproximateTaxes="USD81.30">
+        <air:Journey TravelTime="P0DT12H12M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAZXVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAbXVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAjWVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAdXVrBAAAAA==" TotalPrice="USD791.07" BasePrice="USD709.77" ApproximateTotalPrice="USD791.07" ApproximateBasePrice="USD709.77" Taxes="USD81.30" ApproximateTaxes="USD81.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA+WVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAKXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA+WVrBAAAAA==" SegmentRef="PvNYSKVqWDKAZXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="8" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAKXVrBAAAAA==" SegmentRef="PvNYSKVqWDKAbXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="8" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAKXVrBAAAAA==" SegmentRef="PvNYSKVqWDKAjWVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAeXVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD53.20" Key="PvNYSKVqWDKAfXVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAgXVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="LGA"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKAhXVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="LGA"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA NYC 543.26EAA0OHEN UA X/WAS UA ATL 166.51WAA3AKEN USD709.77END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAlXVrBAAAAA==" TotalPrice="USD791.07" BasePrice="USD709.77" ApproximateTotalPrice="USD791.07" ApproximateBasePrice="USD709.77" Taxes="USD81.30" ApproximateTaxes="USD81.30">
+        <air:Journey TravelTime="P0DT12H12M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAZXVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKASXVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAjWVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAmXVrBAAAAA==" TotalPrice="USD791.07" BasePrice="USD709.77" ApproximateTotalPrice="USD791.07" ApproximateBasePrice="USD709.77" Taxes="USD81.30" ApproximateTaxes="USD81.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA+WVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAKXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA+WVrBAAAAA==" SegmentRef="PvNYSKVqWDKAZXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="2" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAKXVrBAAAAA==" SegmentRef="PvNYSKVqWDKASXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="2" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAKXVrBAAAAA==" SegmentRef="PvNYSKVqWDKAjWVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAnXVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD53.20" Key="PvNYSKVqWDKAoXVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKApXVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="LGA"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKAqXVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="LGA"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA NYC 543.26EAA0OHEN UA X/WAS UA ATL 166.51WAA3AKEN USD709.77END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAuXVrBAAAAA==" TotalPrice="USD791.07" BasePrice="USD709.77" ApproximateTotalPrice="USD791.07" ApproximateBasePrice="USD709.77" Taxes="USD81.30" ApproximateTaxes="USD81.30">
+        <air:Journey TravelTime="P0DT14H12M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAzWVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKASXVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAjWVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKALXVrBAAAAA==" TotalPrice="USD791.07" BasePrice="USD709.77" ApproximateTotalPrice="USD791.07" ApproximateBasePrice="USD709.77" Taxes="USD81.30" ApproximateTaxes="USD81.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA+WVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAKXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA+WVrBAAAAA==" SegmentRef="PvNYSKVqWDKAzWVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="2" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAKXVrBAAAAA==" SegmentRef="PvNYSKVqWDKASXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="2" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAKXVrBAAAAA==" SegmentRef="PvNYSKVqWDKAjWVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAMXVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD53.20" Key="PvNYSKVqWDKANXVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAOXVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="LGA"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKAPXVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="LGA"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA NYC 543.26EAA0OHEN UA X/WAS UA ATL 166.51WAA3AKEN USD709.77END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAvXVrBAAAAA==" TotalPrice="USD791.62" BasePrice="USD714.42" ApproximateTotalPrice="USD791.62" ApproximateBasePrice="USD714.42" Taxes="USD77.20" ApproximateTaxes="USD77.20">
+        <air:Journey TravelTime="P0DT7H4M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAwXVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAyXVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKA0XVrBAAAAA==" TotalPrice="USD791.62" BasePrice="USD714.42" ApproximateTotalPrice="USD791.62" ApproximateBasePrice="USD714.42" Taxes="USD77.20" ApproximateTaxes="USD77.20" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA5XVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKA/XVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="5" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA5XVrBAAAAA==" SegmentRef="PvNYSKVqWDKAwXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA/XVrBAAAAA==" SegmentRef="PvNYSKVqWDKAyXVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKA1XVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD53.60" Key="PvNYSKVqWDKA2XVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKA3XVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="EWR"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKA4XVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="EWR"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA EWR 543.26EAA0OHEN UA ATL 171.16WAA3OHEN USD714.42END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAGYVrBAAAAA==" TotalPrice="USD791.62" BasePrice="USD714.42" ApproximateTotalPrice="USD791.62" ApproximateBasePrice="USD714.42" Taxes="USD77.20" ApproximateTaxes="USD77.20">
+        <air:Journey TravelTime="P0DT8H10M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKABYVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAyXVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKA6XVrBAAAAA==" TotalPrice="USD791.62" BasePrice="USD714.42" ApproximateTotalPrice="USD791.62" ApproximateBasePrice="USD714.42" Taxes="USD77.20" ApproximateTaxes="USD77.20" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA5XVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKA/XVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="2" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA5XVrBAAAAA==" SegmentRef="PvNYSKVqWDKABYVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA/XVrBAAAAA==" SegmentRef="PvNYSKVqWDKAyXVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKA7XVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD53.60" Key="PvNYSKVqWDKA8XVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKA9XVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="EWR"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKA-XVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="EWR"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA EWR 543.26EAA0OHEN UA ATL 171.16WAA3OHEN USD714.42END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAHYVrBAAAAA==" TotalPrice="USD811.62" BasePrice="USD733.02" ApproximateTotalPrice="USD811.62" ApproximateBasePrice="USD733.02" Taxes="USD78.60" ApproximateTaxes="USD78.60">
+        <air:Journey TravelTime="P0DT7H1M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAIYVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAKYVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAMYVrBAAAAA==" TotalPrice="USD811.62" BasePrice="USD733.02" ApproximateTotalPrice="USD811.62" ApproximateBasePrice="USD733.02" Taxes="USD78.60" ApproximateTaxes="USD78.60" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKARYVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKASYVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKARYVrBAAAAA==" SegmentRef="PvNYSKVqWDKAIYVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Q" BookingCount="1" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKASYVrBAAAAA==" SegmentRef="PvNYSKVqWDKAKYVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKANYVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD55.00" Key="PvNYSKVqWDKAOYVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAPYVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKAQYVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA WAS 533.95EAA0OKEN UA ATL 199.07QAA0OKEN USD733.02END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAVYVrBAAAAA==" TotalPrice="USD821.62" BasePrice="USD742.32" ApproximateTotalPrice="USD821.62" ApproximateBasePrice="USD742.32" Taxes="USD79.30" ApproximateTaxes="USD79.30">
+        <air:Journey TravelTime="P0DT8H13M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAWYVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAwVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAYYVrBAAAAA==" TotalPrice="USD821.62" BasePrice="USD742.32" ApproximateTotalPrice="USD821.62" ApproximateBasePrice="USD742.32" Taxes="USD79.30" ApproximateTaxes="USD79.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAdYVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAeYVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="4" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAdYVrBAAAAA==" SegmentRef="PvNYSKVqWDKAWYVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="U" BookingCount="7" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAeYVrBAAAAA==" SegmentRef="PvNYSKVqWDKAwVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAZYVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD55.70" Key="PvNYSKVqWDKAaYVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAbYVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="ORD"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKAcYVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="ORD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA CHI 450.23EAA0OKEN UA ATL 292.09UAA0OKEN USD742.32END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAhYVrBAAAAA==" TotalPrice="USD837.06" BasePrice="USD752.56" ApproximateTotalPrice="USD837.06" ApproximateBasePrice="USD752.56" Taxes="USD84.50" ApproximateTaxes="USD84.50">
+        <air:Journey TravelTime="P0DT9H48M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAqVVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAiYVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAGVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAkYVrBAAAAA==" TotalPrice="USD837.06" BasePrice="USD752.56" ApproximateTotalPrice="USD837.06" ApproximateBasePrice="USD752.56" Taxes="USD84.50" ApproximateTaxes="USD84.50" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAiVVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKApYVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAiVVrBAAAAA==" SegmentRef="PvNYSKVqWDKAqVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="U" BookingCount="1" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKApYVrBAAAAA==" SegmentRef="PvNYSKVqWDKAiYVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="U" BookingCount="1" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKApYVrBAAAAA==" SegmentRef="PvNYSKVqWDKAGVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAlYVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD56.40" Key="PvNYSKVqWDKAmYVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAnYVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DFW"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKAoYVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DFW"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA DFW 366.51EAA0OKEN UA X/HOU UA ATL 386.05UAA0OKEN USD752.56END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAtYVrBAAAAA==" TotalPrice="USD840.15" BasePrice="USD755.35" ApproximateTotalPrice="USD840.15" ApproximateBasePrice="USD755.35" Taxes="USD84.80" ApproximateTaxes="USD84.80">
+        <air:Journey TravelTime="P0DT7H35M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAuYVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAwYVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKA9VVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAyYVrBAAAAA==" TotalPrice="USD840.15" BasePrice="USD755.35" ApproximateTotalPrice="USD840.15" ApproximateBasePrice="USD755.35" Taxes="USD84.80" ApproximateTaxes="USD84.80" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA3YVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKA4YVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAcVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="U" BookingCount="7" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA3YVrBAAAAA==" SegmentRef="PvNYSKVqWDKAuYVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="W" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA4YVrBAAAAA==" SegmentRef="PvNYSKVqWDKAwYVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="U" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAcVVrBAAAAA==" SegmentRef="PvNYSKVqWDKA9VVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAzYVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD56.70" Key="PvNYSKVqWDKA0YVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKA1YVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DFW"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKA2YVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DFW"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA DFW 301.40UAA0OKEN UA HOU 133.95WAA0OKEN UA ATL 320.00UAA0OKEN USD755.35END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection StopOver="true" SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKA8YVrBAAAAA==" TotalPrice="USD907.63" BasePrice="USD822.33" ApproximateTotalPrice="USD907.63" ApproximateBasePrice="USD822.33" Taxes="USD85.30" ApproximateTaxes="USD85.30">
+        <air:Journey TravelTime="P0DT5H39M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKA9YVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKA/YVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKABZVrBAAAAA==" TotalPrice="USD907.63" BasePrice="USD822.33" ApproximateTotalPrice="USD907.63" ApproximateBasePrice="USD822.33" Taxes="USD85.30" ApproximateTaxes="USD85.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAGZVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Y" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAGZVrBAAAAA==" SegmentRef="PvNYSKVqWDKA9YVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Y" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAGZVrBAAAAA==" SegmentRef="PvNYSKVqWDKA/YVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKACZVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD61.70" Key="PvNYSKVqWDKADZVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAEZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="ORD"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKAFZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="ORD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA X/CHI UA ATL 822.33BAA0ADEN USD822.33END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAUZVrBAAAAA==" TotalPrice="USD907.63" BasePrice="USD822.33" ApproximateTotalPrice="USD907.63" ApproximateBasePrice="USD822.33" Taxes="USD85.30" ApproximateTaxes="USD85.30">
+        <air:Journey TravelTime="P0DT7H9M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAVZVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKA3WVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAXZVrBAAAAA==" TotalPrice="USD907.63" BasePrice="USD822.33" ApproximateTotalPrice="USD907.63" ApproximateBasePrice="USD822.33" Taxes="USD85.30" ApproximateTaxes="USD85.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAGZVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Y" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAGZVrBAAAAA==" SegmentRef="PvNYSKVqWDKAVZVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Y" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAGZVrBAAAAA==" SegmentRef="PvNYSKVqWDKA3WVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAYZVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD61.70" Key="PvNYSKVqWDKAZZVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAaZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKAbZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA X/WAS UA ATL 822.33BAA0ADEN USD822.33END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAeZVrBAAAAA==" TotalPrice="USD907.63" BasePrice="USD822.33" ApproximateTotalPrice="USD907.63" ApproximateBasePrice="USD822.33" Taxes="USD85.30" ApproximateTaxes="USD85.30">
+        <air:Journey TravelTime="P0DT8H10M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAfZVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAhZVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAjZVrBAAAAA==" TotalPrice="USD907.63" BasePrice="USD822.33" ApproximateTotalPrice="USD907.63" ApproximateBasePrice="USD822.33" Taxes="USD85.30" ApproximateTaxes="USD85.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAGZVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Y" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAGZVrBAAAAA==" SegmentRef="PvNYSKVqWDKAfZVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Y" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAGZVrBAAAAA==" SegmentRef="PvNYSKVqWDKAhZVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAkZVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD61.70" Key="PvNYSKVqWDKAlZVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAmZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="EWR"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKAnZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="EWR"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA X/EWR UA ATL 822.33BAA0ADEN USD822.33END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAqZVrBAAAAA==" TotalPrice="USD907.63" BasePrice="USD822.33" ApproximateTotalPrice="USD907.63" ApproximateBasePrice="USD822.33" Taxes="USD85.30" ApproximateTaxes="USD85.30">
+        <air:Journey TravelTime="P0DT8H33M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKANZVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAQZVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAHZVrBAAAAA==" TotalPrice="USD907.63" BasePrice="USD822.33" ApproximateTotalPrice="USD907.63" ApproximateBasePrice="USD822.33" Taxes="USD85.30" ApproximateTaxes="USD85.30" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAGZVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Y" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAGZVrBAAAAA==" SegmentRef="PvNYSKVqWDKANZVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Y" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAGZVrBAAAAA==" SegmentRef="PvNYSKVqWDKAQZVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAIZVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD61.70" Key="PvNYSKVqWDKAJZVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAKZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="EWR"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD9.00" Key="PvNYSKVqWDKALZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="EWR"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA X/EWR UA ATL 822.33BAA0ADEN USD822.33END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection SegmentIndex="0"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKArZVrBAAAAA==" TotalPrice="USD910.07" BasePrice="USD820.47" ApproximateTotalPrice="USD910.07" ApproximateBasePrice="USD820.47" Taxes="USD89.60" ApproximateTaxes="USD89.60">
+        <air:Journey TravelTime="P0DT9H48M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAqVVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKA1VVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAGVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAsZVrBAAAAA==" TotalPrice="USD910.07" BasePrice="USD820.47" ApproximateTotalPrice="USD910.07" ApproximateBasePrice="USD820.47" Taxes="USD89.60" ApproximateTaxes="USD89.60" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAiVVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAyVVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAxZVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAiVVrBAAAAA==" SegmentRef="PvNYSKVqWDKAqVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Q" BookingCount="2" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAyVVrBAAAAA==" SegmentRef="PvNYSKVqWDKA1VVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="H" BookingCount="2" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAxZVrBAAAAA==" SegmentRef="PvNYSKVqWDKAGVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAtZVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD61.50" Key="PvNYSKVqWDKAuZVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAvZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DFW"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKAwZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DFW"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA DFW 366.51EAA0OKEN UA HOU 189.77QAA0OKEN UA ATL 264.19HAA0OKEN USD820.47END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection StopOver="true" SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKA1ZVrBAAAAA==" TotalPrice="USD970.08" BasePrice="USD876.28" ApproximateTotalPrice="USD970.08" ApproximateBasePrice="USD876.28" Taxes="USD93.80" ApproximateTaxes="USD93.80">
+        <air:Journey TravelTime="P0DT7H54M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAqVVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKA1VVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAUVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAdVVrBAAAAA==" TotalPrice="USD970.08" BasePrice="USD876.28" ApproximateTotalPrice="USD970.08" ApproximateBasePrice="USD876.28" Taxes="USD93.80" ApproximateTaxes="USD93.80" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAiVVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAyVVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAcVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAiVVrBAAAAA==" SegmentRef="PvNYSKVqWDKAqVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="Q" BookingCount="2" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAyVVrBAAAAA==" SegmentRef="PvNYSKVqWDKA1VVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="U" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAcVVrBAAAAA==" SegmentRef="PvNYSKVqWDKAUVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAeVVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD65.70" Key="PvNYSKVqWDKAfVVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAgVVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DFW"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKAhVVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DFW"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="IAH"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA DFW 366.51EAA0OKEN UA HOU 189.77QAA0OKEN UA ATL 320.00UAA0OKEN USD876.28END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection StopOver="true" SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKA2ZVrBAAAAA==" TotalPrice="USD1011.12" BasePrice="USD914.42" ApproximateTotalPrice="USD1011.12" ApproximateBasePrice="USD914.42" Taxes="USD96.70" ApproximateTaxes="USD96.70">
+        <air:Journey TravelTime="P0DT11H46M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKA3ZVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKA5ZVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAwVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKA7ZVrBAAAAA==" TotalPrice="USD1011.12" BasePrice="USD914.42" ApproximateTotalPrice="USD1011.12" ApproximateBasePrice="USD914.42" Taxes="USD96.70" ApproximateTaxes="USD96.70" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAAaVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKABaVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="V" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAAaVrBAAAAA==" SegmentRef="PvNYSKVqWDKA3ZVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="5" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKABaVrBAAAAA==" SegmentRef="PvNYSKVqWDKA5ZVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="5" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKABaVrBAAAAA==" SegmentRef="PvNYSKVqWDKAwVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKA8ZVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD68.60" Key="PvNYSKVqWDKA9ZVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKA-ZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="SNA"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKA/ZVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="SNA"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="ORD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA SNA 202.79VAA3AKEN UA X/CHI UA ATL 711.63MAA0OFEN USD914.42END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAFaVrBAAAAA==" TotalPrice="USD1017.10" BasePrice="USD920.00" ApproximateTotalPrice="USD1017.10" ApproximateBasePrice="USD920.00" Taxes="USD97.10" ApproximateTaxes="USD97.10">
+        <air:Journey TravelTime="P0DT9H39M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAGaVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAIaVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAwVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAKaVrBAAAAA==" TotalPrice="USD1017.10" BasePrice="USD920.00" ApproximateTotalPrice="USD1017.10" ApproximateBasePrice="USD920.00" Taxes="USD97.10" ApproximateTaxes="USD97.10" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAPaVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAQaVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAPaVrBAAAAA==" SegmentRef="PvNYSKVqWDKAGaVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="5" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAQaVrBAAAAA==" SegmentRef="PvNYSKVqWDKAIaVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="5" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAQaVrBAAAAA==" SegmentRef="PvNYSKVqWDKAwVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKALaVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD69.00" Key="PvNYSKVqWDKAMaVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKANaVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="MSP"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKAOaVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="MSP"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="ORD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA MSP 459.53MAA0OKEN UA X/CHI UA ATL 460.47EAA0OFEN USD920.00END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAUaVrBAAAAA==" TotalPrice="USD1037.10" BasePrice="USD938.60" ApproximateTotalPrice="USD1037.10" ApproximateBasePrice="USD938.60" Taxes="USD98.50" ApproximateTaxes="USD98.50">
+        <air:Journey TravelTime="P0DT9H42M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAqVVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAtVVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAwVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKAjVVrBAAAAA==" TotalPrice="USD1037.10" BasePrice="USD938.60" ApproximateTotalPrice="USD1037.10" ApproximateBasePrice="USD938.60" Taxes="USD98.50" ApproximateTaxes="USD98.50" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKAiVVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAoVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAiVVrBAAAAA==" SegmentRef="PvNYSKVqWDKAqVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAoVVrBAAAAA==" SegmentRef="PvNYSKVqWDKAtVVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAoVVrBAAAAA==" SegmentRef="PvNYSKVqWDKAwVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAkVVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD70.40" Key="PvNYSKVqWDKAlVVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKAmVVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DFW"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKAnVVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DFW"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="ORD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA DFW 366.51EAA0OKEN UA X/CHI UA ATL 572.09MAA0OKEN USD938.60END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:AirPricingSolution Key="PvNYSKVqWDKAVaVrBAAAAA==" TotalPrice="USD1146.10" BasePrice="USD1040.00" ApproximateTotalPrice="USD1146.10" ApproximateBasePrice="USD1040.00" Taxes="USD106.10" ApproximateTaxes="USD106.10">
+        <air:Journey TravelTime="P0DT11H48M0S">
+          <air:AirSegmentRef Key="PvNYSKVqWDKAzWVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAHXVrBAAAAA=="/>
+          <air:AirSegmentRef Key="PvNYSKVqWDKAwVVrBAAAAA=="/>
+        </air:Journey>
+        <air:LegRef Key="PvNYSKVqWDKAsUVrBAAAAA=="/>
+        <air:AirPricingInfo Key="PvNYSKVqWDKA/WVrBAAAAA==" TotalPrice="USD1146.10" BasePrice="USD1040.00" ApproximateTotalPrice="USD1146.10" ApproximateBasePrice="USD1040.00" Taxes="USD106.10" ApproximateTaxes="USD106.10" LatestTicketingTime="2022-08-17T23:59:00.000+09:00" PricingMethod="Guaranteed" ETicketability="Yes" PlatingCarrier="UA" ProviderCode="1G" Cat35Indicator="false">
+          <air:FareInfoRef Key="PvNYSKVqWDKA+WVrBAAAAA=="/>
+          <air:FareInfoRef Key="PvNYSKVqWDKAEXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="E" BookingCount="9" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKA+WVrBAAAAA==" SegmentRef="PvNYSKVqWDKAzWVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="6" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAEXVrBAAAAA==" SegmentRef="PvNYSKVqWDKAHXVrBAAAAA=="/>
+          <air:BookingInfo BookingCode="M" BookingCount="6" CabinClass="Economy" FareInfoRef="PvNYSKVqWDKAEXVrBAAAAA==" SegmentRef="PvNYSKVqWDKAwVVrBAAAAA=="/>
+          <air:TaxInfo Category="AY" Amount="USD5.60" Key="PvNYSKVqWDKAAXVrBAAAAAAA"/>
+          <air:TaxInfo Category="US" Amount="USD78.00" Key="PvNYSKVqWDKABXVrBAAAAAAA"/>
+          <air:TaxInfo Category="XF" Amount="USD9.00" Key="PvNYSKVqWDKACXVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="LGA"/>
+          </air:TaxInfo>
+          <air:TaxInfo Category="ZP" Amount="USD13.50" Key="PvNYSKVqWDKADXVrBAAAAAAA">
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="DEN"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="LGA"/>
+            <common_v42_0:TaxDetail Amount="USD4.50" OriginAirport="ORD"/>
+          </air:TaxInfo>
+          <air:FareCalc>DEN UA NYC 543.26EAA0OHEN UA X/CHI UA ATL 496.74MAA0OKEN USD1040.00END</air:FareCalc>
+          <air:PassengerType Code="ADT"/>
+          <air:ChangePenalty>
+            <air:Percentage>0.00</air:Percentage>
+          </air:ChangePenalty>
+          <air:CancelPenalty>
+            <air:Percentage>100.00</air:Percentage>
+          </air:CancelPenalty>
+        </air:AirPricingInfo>
+        <air:Connection StopOver="true" SegmentIndex="0"/>
+        <air:Connection SegmentIndex="1"/>
+      </air:AirPricingSolution>
+      <air:BrandList>
+        <air:Brand Key="PvNYSKVqWDKAObVrBAAAAA==" BrandID="1118016" Name="ECONOMY" BrandedDetailsAvailable="true" Carrier="UA">
+          <air:Title Type="External" LanguageCode="EN">Economy</air:Title>
+          <air:Title Type="Short" LanguageCode="EN">ECONOMY</air:Title>
+          <air:Text Type="MarketingAgent" LanguageCode="EN">Our lowest available fare with options to customize travel and without the restrictions of Budget Economy. 
+
+Benefits include:
+- Seat selection at booking, if seats are available
+- Eligible to change ticket.
+- Eligible to request a same-day change.
+- Carry on bag
+&#x2022; Please note that if the flight is operated by another airline then the onboard product or service maybe different to that described above.</air:Text>
+          <air:Text Type="Strapline" LanguageCode="EN">Economy</air:Text>
+          <air:ImageLocation Type="Agent" ImageWidth="150" ImageHeight="150">https://cdn.travelport.com/united/UA_general_medium_1663.jpg</air:ImageLocation>
+          <air:ImageLocation Type="Consumer" ImageWidth="2000" ImageHeight="1529">https://cdn.travelport.com/united/UA_general_large_42309.jpg</air:ImageLocation>
+        </air:Brand>
+      </air:BrandList>
+    </air:LowFareSearchRsp>
+  </SOAP:Body>
+</SOAP:Envelope>

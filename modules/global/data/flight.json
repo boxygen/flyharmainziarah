@@ -1,0 +1,329 @@
+[
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    },
+    {
+        "segments": [
+            [
+                {
+                    "img_code": "http://209.250.230.56/uploads/images/flights/airlines/PK.png",
+                    "departure_time": "02:15:00",
+                    "departure_date": "2021-02-25",
+                    "arrival_date": "2021-02-25",
+                    "arrival_time": "02:15:00",
+                    "departure_code": "LHE",
+                    "departure_airport": "Lahore",
+                    "arrival_code": "DXB",
+                    "arrival_airport": "Dubai",
+                    "duration_time": null,
+                    "currency_code": "USD",
+                    "price": 200,
+                    "url": "",
+                    "airline_name": "Pakistan International Airlines",
+                    "booking_class": "",
+                    "form": "<input name=\"tripType\" type=\"hidden\"  value=\"oneway\" /><input name=\"setting_id\" type=\"hidden\"  value=\"1869\" /><input name=\"adults\" type=\"hidden\"  value=\"1\" /><input name=\"children\" type=\"hidden\"  value=\"0\" /><input name=\"infant\" type=\"hidden\"  value=\"0\" />",
+                    "form_name": "",
+                    "action": "http://209.250.230.56/flights/book",
+                    "type": "Manual flight"
+                }
+            ]
+        ]
+    }
+    
+
+]

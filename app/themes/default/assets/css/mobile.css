@@ -1,0 +1,64 @@
+@media(max-width: 768px){
+.nav-mob {display: block !important; }
+.nav-mob-p8 {padding: 8px !important;}
+.m-mb-0 {margin: 0px !important;}
+.daterangepicker { position: fixed; top: 0px !important; width: 100%; bottom: 0px; margin-top: 0; }
+.daterangepicker .drp-calendar { max-width: 100% !important }
+.section-tab .nav-tabs .nav-link { padding: 15px }
+.datepicker{ top: 0px !important;left: 0px!important ;width: 100%; position: fixed !important; height: 100%; bottom: 0px !important; }
+.main-menu-content nav {background:#fff;border-radius: 10px;}
+.header-right.justify-content-end{display:block !important;}
+.header-right-action .show { width: 100% !important; }
+.theme-search-results-item-flight-section-meta>p { display: block; margin: 5px 0px -8px; font-size: 12px; }
+.theme-search-results-item-flight-section-airline-title { text-align: center; margin-top: 0px !important; margin-bottom: 14px; font-size: 14px;}
+.theme-search-results-item-flight-sections .theme-search-results-item-flight-section { margin-bottom: -5px; padding-bottom: 0px; border-bottom: 1px dashed #e6e6e6; }
+.mob-none {display: none !important; }
+.menu-wrapper {padding-top:0px}
+.heroSlider {min-height: 1000px !important; background-position-y: unset !important; background-size: unset !important;}
+
+.header-top-bar {display: inline-block !important;}
+#swap { right: 20%; margin-top: -38px; }
+.modify_search #swap { right: 12px; margin-top: -28px; }
+
+#flights_load, #hotels_load, #tours_load, #cars_load { display : none !important; font-size: 10px; }
+
+.cd-main-content .search_filter_options { overflow: auto; position: fixed; top: 0px; width: 100%; background: #fff; z-index: 9999; height: 100vh; padding: 0px; left: 0 }
+.cd-main-content .sticky-top { position: relative !important}
+
+/* .cd-main-content .d-none:after { content: ""; background: rgba(255,255,255,0.3); display: block; position: absolute; border-radius: 50%; left: 0; right: 0; top: 0; bottom: 0; width: 450px; height: 450px; margin: auto; opacity: 0; transition: all 1.2s; } */
+.mob_filter { position: fixed; bottom: 10px; width: 80%; display: block; left: 10px; }
+.btn_filter_search {
+    display: block !important;
+    position: fixed;
+    bottom: 0px;
+    z-index: 10;
+    width: 100%;
+    border-radius: 0px !important;
+    left: 0 
+}
+#back-to-top.active { right: 20px; opacity: 1; visibility: visible; bottom: 10px; border: 1px solid var(--theme); }
+
+.menu-wrapper { justify-content: space-between !important; padding: 0px !important; }
+.booking-area .btn-box { margin-bottom: 20px; }
+.footer-area { padding: 40px 0 !important; }
+.footer-item {  display: flex; justify-content: space-around; align-items: center; background: #f2f2f2; border-radius: 3px; padding: 13px; color: #000; }
+.footer-area .foot_menu { display: block; margin-bottom: 20px; padding: 0px; }
+.footer-social-box { float : none }
+.copy-right-content { display: none !important}
+.hero-bg { background-attachment: unset !important; }
+
+.section-heading { margin-bottom: 15px }
+
+.hero-box { padding-top: 0px; padding-bottom: 200px !important; }
+.select2-dropdown { position: fixed !important; top: 0; width: 100% !important; height: 100%; }
+
+.sidebar-small ~ .main-content header .header-menu-wrapper {
+    padding-right: 65px;
+}
+
+.g-0-xs {
+    --bs-gutter-y: 0;
+    padding: 0;
+}
+
+}

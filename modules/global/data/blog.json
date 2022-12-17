@@ -1,0 +1,70 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "category": "Travel and Foods",
+      "category_post": 11,
+      "name": "Trapizzino, Rome’s OG Street Food",
+      "author_name": "qasim hussain",
+      "date": "16/12/2014",
+      "desc": "Rome’s rapidly growing trend, “lo street food,” seems unstoppable. I’m not talking about food trucks, which really really don’t work or exist here the way the do in other cities, nor the ubiquitous pizza by the slice joints. I’m referring to a different approach to marketing food in which takeaways, cafes and restaurants peddle (relatively) inexpensive, portable snacks.",
+      "img": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto"
+    },
+    {
+      "id": 2,
+      "category": "Adventure",
+      "category_post": 5,
+      "name": "Gluten Dining & Food Shopping in Rome",
+      "author_name": "qasim hussain",
+      "date": "16/12/2014",
+      "desc": "Rome’s rapidly growing trend, “lo street food,” seems unstoppable. I’m not talking about food trucks, which really really don’t work or exist here the way the do in other cities, nor the ubiquitous pizza by the slice joints. I’m referring to a different approach to marketing food in which takeaways, cafes and restaurants peddle (relatively) inexpensive, portable snacks.",
+      "img": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto"
+    },
+    {
+      "id": 3,
+      "category": "Shopping and Fashion",
+      "category_post": 9,
+      "name": "Mordi e Vai in the Testaccio Market",
+      "author_name": "qasim hussain",
+      "date": "16/12/2014",
+      "desc": "Rome’s rapidly growing trend, “lo street food,” seems unstoppable. I’m not talking about food trucks, which really really don’t work or exist here the way the do in other cities, nor the ubiquitous pizza by the slice joints. I’m referring to a different approach to marketing food in which takeaways, cafes and restaurants peddle (relatively) inexpensive, portable snacks.",
+      "img": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto"
+    },
+    {
+      "id": 4,
+      "category": "Things to do",
+      "category_post": 3,
+      "name": "Hotel Review: DOM Hotel In Rome",
+      "author_name": "qasim hussain",
+      "date": "16/12/2014",
+      "desc": "Rome’s rapidly growing trend, “lo street food,” seems unstoppable. I’m not talking about food trucks, which really really don’t work or exist here the way the do in other cities, nor the ubiquitous pizza by the slice joints. I’m referring to a different approach to marketing food in which takeaways, cafes and restaurants peddle (relatively) inexpensive, portable snacks.",
+      "img": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto"
+    }
+  ],
+  "popular_blog": [
+    {
+      "id": 1,
+      "title": "Hotel Review: DOM Hotel In Rome",
+      "img": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto",
+      "date": "16/12/2014"
+    },
+    {
+      "id": 2,
+      "title": "Hotel Review: DOM Hotel In Rome",
+      "img": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto",
+      "date": "16/12/2014"
+    },
+    {
+      "id": 3,
+      "title": "Hotel Review: DOM Hotel In Rome",
+      "img": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto",
+      "date": "16/12/2014"
+    },
+    {
+      "id": 4,
+      "title": "Hotel Review: DOM Hotel In Rome",
+      "img": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto",
+      "date": "16/12/2014"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+[
+{
+"id": 1910583751,
+"name": "Hotel Lahore Inn International",
+"location": "Farid Court Road",
+"stars": 0,
+"latitude": 31.56169,
+"longitude": 74.311274,
+"price": 48,
+"img": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto"
+},
+{
+"id": 1908262733,
+"name": "Hotel Tulip Inn, Gulberg",
+"location": "60-B-1, Gulberg III, Link MM Alam Road",
+"stars": 3,
+"latitude": 31.51828,
+"longitude": 74.35304,
+"price": 69,
+"img": "https://photo.hotellook.com/image_v2/limit/8864598454/800/520.auto"
+},
+{
+"id": 1909731743,
+"name": "Gulberg View Hotel",
+"location": "10 E Hali Rd, Main Market",
+"stars": 0,
+"latitude": 31.523407,
+"longitude": 74.346203,
+"price": 67,
+"img": "https://photo.hotellook.com/image_v2/limit/8863781883/800/520.auto"
+},
+{
+"id": 1909731742,
+"name": "Fortville Hotel",
+"location": "Street 13",
+"stars": 0,
+"latitude": 31.501484,
+"longitude": 74.362278,
+"price": 48,
+"img": "https://photo.hotellook.com/image_v2/limit/8822374341/800/520.auto"
+},
+{
+"id": 1910583752,
+"name": "The Rich Hotel",
+"location": "Main Boulevard",
+"stars": 0,
+"latitude": 31.460287,
+"longitude": 74.275407,
+"price": 65,
+"img": "https://photo.hotellook.com/image_v2/limit/8865431226/800/520.auto"
+},
+{
+"id": 1909731750,
+"name": "Luxury studio furnished apartment",
+"location": "Eagle plaza Eastern Eve W safari villas bahria Town lahore, 4",
+"stars": 0,
+"latitude": 31.388181,
+"longitude": 74.190592,
+"price": 75,
+"img": "https://photo.hotellook.com/image_v2/limit/8860873488/800/520.auto"
+},
+{
+"id": 1872303264,
+"name": "Hotel Platinum",
+"location": "211-B, Sector C, bahria town",
+"stars": 4,
+"latitude": 31.36953,
+"longitude": 74.18725,
+"price": 316,
+"img": "https://photo.hotellook.com/image_v2/limit/8362628093/800/520.auto"
+},
+{
+"id": 802231002,
+"name": "Mall View Hotel Gulberg",
+"location": "G-6 Aziz Avenue Canal bank road Gulberg 5",
+"stars": 3,
+"latitude": 31.5506,
+"longitude": 74.35647,
+"price": 202,
+"img": "https://photo.hotellook.com/image_v2/limit/8793175399/800/520.auto"
+},
+{
+"id": 1863451971,
+"name": "Lotus 1 Hotel",
+"location": "18-H-1, Johar Town Lahore",
+"stars": 0,
+"latitude": 31.48826,
+"longitude": 74.30836,
+"price": 127,
+"img": "https://photo.hotellook.com/image_v2/limit/8731431482/800/520.auto"
+},
+{
+"id": 1332516556,
+"name": "Heaven Hotel",
+"location": "Main Boulevard, DHA, Near Main Gate,",
+"stars": 0,
+"latitude": 31.48749,
+"longitude": 74.38104,
+"price": 162,
+"img": "https://photo.hotellook.com/image_v2/limit/8340213279/800/520.auto"
+},
+{
+"id": 1910509971,
+"name": "Burj Al Bahria Town Luxury Suites",
+"location": "",
+"stars": 0,
+"latitude": 31.360969,
+"longitude": 74.182996,
+"price": 133,
+"img": "https://photo.hotellook.com/image_v2/limit/8861252678/800/520.auto"
+},
+{
+"id": 1597000,
+"name": "Hotel Crown Plaza Lahore",
+"location": "Street 2 Upper Mall Scheme, Lahore Pakistan",
+"stars": 0,
+"latitude": 31.551183,
+"longitude": 74.357203,
+"price": 268,
+"img": "https://photo.hotellook.com/image_v2/limit/8861252663/800/520.auto"
+},
+{
+"id": 700166,
+"name": "Hotel One Downtown, Lahore",
+"location": "6, Chatterjee road, Urdu Bazar,Lahore, Punjab",
+"stars": 3,
+"latitude": 31.54762,
+"longitude": 74.35442,
+"price": 193,
+"img": "https://photo.hotellook.com/image_v2/limit/8677467910/800/520.auto"
+},
+{
+"id": 1184034794,
+"name": "Hotel Marco Polo Lahore",
+"location": "13 Abbot Road, Lahore",
+"stars": 0,
+"latitude": 31.56514,
+"longitude": 74.329773,
+"price": 324,
+"img": "https://photo.hotellook.com/image_v2/limit/8340213281/800/520.auto"
+},
+{
+"id": 1350005177,
+"name": "Safari hotel",
+"location": "Block A-2, Gulberg III, Lahore",
+"stars": 0,
+"latitude": 31.51152,
+"longitude": 74.354729,
+"price": 143,
+"img": "https://photo.hotellook.com/image_v2/limit/8792370287/800/520.auto"
+},
+{
+"id": 1910184763,
+"name": "Royaute Luxury",
+"location": "MM Alam Road",
+"stars": 0,
+"latitude": 31.514076,
+"longitude": 74.349551,
+"price": 281,
+"img": "https://photo.hotellook.com/image_v2/limit/8852521690/800/520.auto"
+},
+{
+"id": 1882849578,
+"name": "Hotel Mayfair",
+"location": "50-52, E-3 Commercial Zone old Al-Fateh Road Liberty Market, Gulberg-3 Lahore Pakistan",
+"stars": 2,
+"latitude": 31.50977,
+"longitude": 74.33229,
+"price": 295,
+"img": "https://photo.hotellook.com/image_v2/limit/8733244296/800/520.auto"
+},
+{
+"id": 1415712563,
+"name": "Grand Millennium Hotel",
+"location": "Grand Millennium Hotel 9-Davis Road",
+"stars": 4,
+"latitude": 31.56123,
+"longitude": 74.33739,
+"price": 526,
+"img": "https://photo.hotellook.com/image_v2/limit/8721500224/800/520.auto"
+},
+{
+"id": 1225001230,
+"name": "Royal Lahore Hotel",
+"location": "110, J Block Johar Town Lahore, Lahore",
+"stars": 0,
+"latitude": 31.47208,
+"longitude": 74.258736,
+"price": 244,
+"img": "https://photo.hotellook.com/image_v2/limit/8798352803/800/520.auto"
+},
+{
+"id": 1898563551,
+"name": "Shelton Hotel Lahore",
+"location": "Opposite Expo Centre, Johar Town J3 Block, Johar Town",
+"stars": 3,
+"latitude": 31.46726,
+"longitude": 74.25755,
+"price": 168,
+"img": "https://photo.hotellook.com/image_v2/limit/8737364482/800/520.auto"
+},
+{
+"id": 802231003,
+"name": "Hotel Premier Inn Davis Road",
+"location": "8-Davis Road, Near Shimla Hill, Lahore",
+"stars": 3,
+"latitude": 31.56043,
+"longitude": 74.33755,
+"price": 232,
+"img": "https://photo.hotellook.com/image_v2/limit/8716413006/800/520.auto"
+},
+{
+"id": 1769473471,
+"name": "Ashiana Hotel",
+"location": "5-Larex, Near Fortress Stadium, Lahore",
+"stars": 0,
+"latitude": 31.53232,
+"longitude": 74.36145,
+"price": 181,
+"img": "https://photo.hotellook.com/image_v2/limit/8362575462/800/520.auto"
+},
+{
+"id": 700168,
+"name": "Hotel One The Mall",
+"location": "105 A, The Mall, Lahore, Punjab",
+"stars": 3,
+"latitude": 31.54826,
+"longitude": 74.34432,
+"price": 200,
+"img": "https://photo.hotellook.com/image_v2/limit/8849600392/800/520.auto"
+},
+{
+"id": 1863031629,
+"name": "BnB Hotel",
+"location": "moon market, Bilal Street, Civic Center Commercial Area Faisal Town, Lahore, Punjab",
+"stars": 0,
+"latitude": 31.47458,
+"longitude": 74.30547,
+"price": 181,
+"img": "https://photo.hotellook.com/image_v2/limit/8727222967/800/520.auto"
+},
+{
+"id": 1606414,
+"name": "Ambassador Hotel",
+"location": "7 Davis Road Garhi Shahu, Lahor",
+"stars": 0,
+"latitude": 31.561279,
+"longitude": 74.337631,
+"price": 253,
+"img": "https://photo.hotellook.com/image_v2/limit/8794284837/800/520.auto"
+},
+{
+"id": 37360497,
+"name": "The Residency Hotel",
+"location": "39 A, Gulberg V, off Zafar Ali Road",
+"stars": 3,
+"latitude": 31.53932,
+"longitude": 74.35033,
+"price": 200,
+"img": "https://photo.hotellook.com/image_v2/limit/8825530596/800/520.auto"
+},
+{
+"id": 700167,
+"name": "Hotel One Gulberg",
+"location": "40 A/2 Mehmood Ali Kasoori Road, Gulberg II, Punjab",
+"stars": 3,
+"latitude": 31.50744,
+"longitude": 74.35456,
+"price": 369,
+"img": "https://photo.hotellook.com/image_v2/limit/8842602965/800/520.auto"
+},
+{
+"id": 1863248401,
+"name": "Hotel Shanghai",
+"location": "30 Davis Road, Near Dewan Motors, Lahore",
+"stars": 0,
+"latitude": 31.55628,
+"longitude": 74.339958,
+"price": 219,
+"img": "https://photo.hotellook.com/image_v2/limit/8362616684/800/520.auto"
+},
+{
+"id": 34942879,
+"name": "Hotel Hilton Suites",
+"location": "89 A-B2 Gulberg III Near Hussain Chowk",
+"stars": 4,
+"latitude": 31.50736,
+"longitude": 74.35027,
+"price": 706,
+"img": "https://photo.hotellook.com/image_v2/limit/8842644335/800/520.auto"
+},
+{
+"id": 369275,
+"name": "Four Points by Sheraton Lahore",
+"location": "25-Egerton Road",
+"stars": 4,
+"latitude": 31.56146,
+"longitude": 74.3297,
+"price": 331,
+"img": "https://photo.hotellook.com/image_v2/limit/8855521366/800/520.auto"
+},
+{
+"id": 802230999,
+"name": "Lawrence View Hotel",
+"location": "54-A Lawrence Road, Jubilee Town, Lahore, Punjab 54000",
+"stars": 3,
+"latitude": 31.54888,
+"longitude": 74.3286,
+"price": 286,
+"img": "https://photo.hotellook.com/image_v2/limit/8813519780/800/520.auto"
+},
+{
+"id": 209970730,
+"name": "Marvel Hotel",
+"location": "31-B Sector XX, DHA, Lahore",
+"stars": 0,
+"latitude": 31.47394,
+"longitude": 74.356934,
+"price": 316,
+"img": "https://photo.hotellook.com/image_v2/limit/7846834806/800/520.auto"
+},
+{
+"id": 1406926685,
+"name": "Luxus Grand Hotel",
+"location": "4-Egerton Road, Opposite Aiwan-e-Iqbal, Lahore.",
+"stars": 5,
+"latitude": 31.56171,
+"longitude": 74.33009,
+"price": 304,
+"img": "https://photo.hotellook.com/image_v2/limit/8797571471/800/520.auto"
+},
+{
+"id": 46186234,
+"name": "Lahore Continental Hotel",
+"location": "70/71, Near Jinnah Flyover, Commercial Area Cavalry Ground, Lahore Cantt",
+"stars": 3,
+"latitude": 31.50148,
+"longitude": 74.36227,
+"price": 282,
+"img": "https://photo.hotellook.com/image_v2/limit/8702437333/800/520.auto"
+},
+{
+"id": 1899105364,
+"name": "Hotel Grand Inn",
+"location": "5 Davis Road, Hill View Arcade, near Shimla Pahari, Phase-II Lahore.",
+"stars": 3,
+"latitude": 31.56216,
+"longitude": 74.33687,
+"price": 480,
+"img": "https://photo.hotellook.com/image_v2/limit/8846319553/800/520.auto"
+},
+{
+"id": 48092869,
+"name": "Grand Enclave",
+"location": "Akbar Road  Off New Airport Road (Near Toyota Motors)",
+"stars": 4,
+"latitude": 31.49689,
+"longitude": 74.41854,
+"price": 436,
+"img": "https://photo.hotellook.com/image_v2/limit/8704648092/800/520.auto"
+},
+{
+"id": 485719,
+"name": "Pearl Continental Hotel, Lahore",
+"location": "Shahrah-e-Quaid-e-Azam, The Mall",
+"stars": 5,
+"latitude": 31.5523,
+"longitude": 74.33842,
+"price": 569,
+"img": "https://photo.hotellook.com/image_v2/limit/8827358644/800/520.auto"
+},
+{
+"id": 2366935,
+"name": "Avari Lahore Hotel",
+"location": "87 - Shahrah-e-Quaid-e-Azam",
+"stars": 5,
+"latitude": 31.55453,
+"longitude": 74.33161,
+"price": 987,
+"img": "https://photo.hotellook.com/image_v2/limit/8702325592/800/520.auto"
+},
+{
+"id": 34296117,
+"name": "The Nishat Hotel",
+"location": "9A Gulberg III, Mian Mehmood Ali Kasuri Road",
+"stars": 5,
+"latitude": 31.50715,
+"longitude": 74.35435,
+"price": 555,
+"img": "https://photo.hotellook.com/image_v2/limit/8842644160/800/520.auto"
+},
+{
+"id": 1899364421,
+"name": "Grand Palm Hotel",
+"location": "Grand Palm Hotel,Ferozpur Road.Opp Qaddafi Stadium,Lahore Grand Palm Hotel,Ferozpur Road.Opp Qaddafi Stadium,Lahore",
+"stars": 4,
+"latitude": 31.51148,
+"longitude": 74.3287,
+"price": 309,
+"img": "https://photo.hotellook.com/image_v2/limit/8826326969/800/520.auto"
+},
+{
+"id": 1900486896,
+"name": "Defence Raya Golf & Country Club",
+"location": "Plot #1, Sector M DHA Phase 6",
+"stars": 0,
+"latitude": 31.47005,
+"longitude": 74.43886,
+"price": 345,
+"img": "https://photo.hotellook.com/image_v2/limit/8747114962/800/520.auto"
+},
+{
+"id": 44935542,
+"name": "Royaute Luxury - Suites & Hotel, Lahore",
+"location": "43-C/1 Off MM Alam Road, Gulberg III",
+"stars": 3,
+"latitude": 31.51413,
+"longitude": 74.34947,
+"price": 434,
+"img": "https://photo.hotellook.com/image_v2/limit/8702009423/800/520.auto"
+},
+{
+"id": 47771558,
+"name": "Carlton Tower Hotel Lahore",
+"location": "14 Empress Road",
+"stars": 3,
+"latitude": 31.57022,
+"longitude": 74.33478,
+"price": 408,
+"img": "https://photo.hotellook.com/image_v2/limit/8704146780/800/520.auto"
+},
+{
+"id": 1898582608,
+"name": "Maisonette Hotel & Resort",
+"location": "51-CII, Ghalib Road, Gulberg III",
+"stars": 3,
+"latitude": 31.51331,
+"longitude": 74.34748,
+"price": 355,
+"img": "https://photo.hotellook.com/image_v2/limit/8737653112/800/520.auto"
+},
+{
+"id": 1898582606,
+"name": "Lahore Home Stay",
+"location": "Street 112, Lahore",
+"stars": 0,
+"latitude": 31.49991,
+"longitude": 74.345192,
+"price": 504,
+"img": "https://photo.hotellook.com/image_v2/limit/8362562276/800/520.auto"
+},
+{
+"id": 1900028058,
+"name": "Shalimar Tower Hotel",
+"location": "2-A, Main Gulberg, Lahore",
+"stars": 0,
+"latitude": 31.53421,
+"longitude": 74.343231,
+"price": 401,
+"img": "https://photo.hotellook.com/image_v2/limit/8791600373/800/520.auto"
+},
+{
+"id": 47773081,
+"name": "Royal Elegance Hotel",
+"location": "22-A Zafar Ali Road Gulberg 5 Lahore",
+"stars": 3,
+"latitude": 31.53795,
+"longitude": 74.34913,
+"price": 438,
+"img": "https://photo.hotellook.com/image_v2/limit/8827591325/800/520.auto"
+},
+{
+"id": 46482847,
+"name": "Park Lane Hotel Lahore",
+"location": "107 B-3, M.M. Alam Road, Gulberg III",
+"stars": 5,
+"latitude": 31.50354,
+"longitude": 74.34923,
+"price": 555,
+"img": "https://photo.hotellook.com/image_v2/limit/8717984120/800/520.auto"
+},
+{
+"id": 1249561559,
+"name": "Faletti's Hotel Lahore",
+"location": "24-Egerton Road, Lahore, Pakistan",
+"stars": 5,
+"latitude": 31.56126,
+"longitude": 74.32807,
+"price": 488,
+"img": "https://photo.hotellook.com/image_v2/limit/8375737883/800/520.auto"
+},
+{
+"id": 1862832480,
+"name": "The Nishat Hotel Johar Town",
+"location": "Abdul Haque Road",
+"stars": 5,
+"latitude": 31.46761,
+"longitude": 74.26482,
+"price": 706,
+"img": "https://photo.hotellook.com/image_v2/limit/8726441791/800/520.auto"
+}
+]

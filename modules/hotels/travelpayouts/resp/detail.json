@@ -1,0 +1,75 @@
+{
+    "id": 1910583751,
+    "name": "Hotel Lahore Inn International",
+    "location": "Farid Court Road",
+    "stars": 0,
+    "rating": 0,
+    "longitude": 74.311274,
+    "latitude": 31.56169,
+    "price": 32,
+    "desc": "",
+    "img": [
+        "https://photo.hotellook.com/image_v2/limit/h1910583751_0/800/520.auto",
+        "https://photo.hotellook.com/image_v2/limit/h1910583751_1/800/520.auto",
+        "https://photo.hotellook.com/image_v2/limit/h1910583751_2/800/520.auto",
+        "https://photo.hotellook.com/image_v2/limit/h1910583751_3/800/520.auto",
+        "https://photo.hotellook.com/image_v2/limit/h1910583751_4/800/520.auto"
+    ],
+    "amenities": [
+        "Wi-Fi in public areas",
+        "Restaurant",
+        "Laundry service",
+        "Concierge",
+        "Air conditioning",
+        "Daily Housekeeping",
+        "English"
+    ],
+    "supplier": "travelpayoutshotels",
+    "rooms": [
+        {
+            "id": 1,
+            "name": "Double Room",
+            "price": 22,
+            "refundable": true,
+            "img": "",
+            "options": {
+                "id": 1,
+                "price": 22,
+                "quantity": 5,
+                "adults": 2,
+                "child": 0,
+                "bookingurl": "http://search.hotellook.com/r?searchUuid=4aa69b50-6885-47ad-b4ef-e9a78da9da89&transparent=1&adults=2&flag_traffic=affiliate_api&affSearchId=4194695&marker=99072&currency=USD&children=&language=en&roomId=0&host=v2%3A99072&hotelId=1910583751&checkOut=2020-07-12&checkIn=2020-07-10&gateId=1"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Triple Room",
+            "price": 27,
+            "refundable": true,
+            "img": "",
+            "options": {
+                "id": 2,
+                "price": 27,
+                "quantity": 5,
+                "adults": 2,
+                "child": 0,
+                "bookingurl": "http://search.hotellook.com/r?searchUuid=4aa69b50-6885-47ad-b4ef-e9a78da9da89&transparent=1&adults=2&flag_traffic=affiliate_api&affSearchId=4194695&marker=99072&currency=USD&children=&language=en&roomId=1&host=v2%3A99072&hotelId=1910583751&checkOut=2020-07-12&checkIn=2020-07-10&gateId=1"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Family Room",
+            "price": 32,
+            "refundable": true,
+            "img": "",
+            "options": {
+                "id": 3,
+                "price": 32,
+                "quantity": 5,
+                "adults": 2,
+                "child": 0,
+                "bookingurl": "http://search.hotellook.com/r?searchUuid=4aa69b50-6885-47ad-b4ef-e9a78da9da89&transparent=1&adults=2&flag_traffic=affiliate_api&affSearchId=4194695&marker=99072&currency=USD&children=&language=en&roomId=2&host=v2%3A99072&hotelId=1910583751&checkOut=2020-07-12&checkIn=2020-07-10&gateId=1"
+            }
+        }
+    ]
+}

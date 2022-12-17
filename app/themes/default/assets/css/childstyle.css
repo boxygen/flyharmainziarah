@@ -1,0 +1,68 @@
+
+/* THEME COLOR */
+
+:root {
+    --theme: #1062fe;
+}
+
+/* .breadcrumb-area { background: var(--theme) } */
+
+.hero-box:after {
+    /* background-color : var(--theme) !important; */
+    /* background: linear-gradient(45deg,#543cd0 0,#ae459c 99%); */
+    /* background: linear-gradient(45deg,#2900ff 0,#ff00d3 99%) */
+}
+
+/* STYLE WITH COLORS */
+/* .dashboard-bread {  
+    background-color: var(--theme) !important;
+    background: linear-gradient(45deg,#543cd0 0,#ae459c 99%); 
+    background: linear-gradient(45deg,#2900ff 0,#ff00d3 99%);
+} */
+
+.accordion-button:not(.collapsed){
+background-color: #fff;
+color: var(--theme);
+}
+
+.dashboard-bread {  
+    background-color: var(--theme) !important;
+}
+
+a{color: var(--theme);}
+.section-tab .nav-tabs .nav-link.active { color: var(--theme); }
+.contact-form-action .form-group .form-icon { color: var(--theme); }
+.ladda-button { background-color: var(--theme); border-color: var(--theme); color: #fff}
+.icon-element { background-color: var(--theme); }
+.icon-box .info-icon { color: var(--theme); }
+.bottom-line::before { background: linear-gradient( 90deg ,#000 0,var(--theme) 100%); }
+.theme-btn { background-color: var(--theme); border-color: var(--theme); }
+.theme-btn-transparent { color: var(--theme); }
+.main-menu-content ul li a:hover { color: var(--theme); }
+.main-menu-content ul li .dropdown-menu-item li a:hover { color: var(--theme); }
+.stroke-shape::before, .stroke-shape::after { background-color: var(--theme); }
+.form-check-input:checked,.carousel-action .owl-dots div.active,.destination-card .card-img .badge {  background-color: var(--theme); border-color: var(--theme); }
+.select2-container--default .select2-search--dropdown .select2-search__field { border-color: var(--theme);}
+.card-header strong,.theme-bg p { color: var(--theme); }
+.btn-primary { background-color: var(--theme); border-color: var(--theme);}
+.mixitup-control:disabled { background-color: var(--theme);}
+.mixitup-control-active { border: 2px solid var(--theme); }
+.irs--round .irs-from, .irs--round .irs-to, .irs--round .irs-single { background-color: var(--theme); }
+.irs--round .irs-from:before, .irs--round .irs-to:before, .irs--round .irs-single:before {border-top-color: var(--theme);}
+.irs--round .irs-handle { border: 4px solid var(--theme);}
+.irs--round .irs-bar {background-color: var(--theme);}
+.single-feature-icon { color: #fff;}
+.theme-btn:hover { color:var(--theme)}
+.autocomplete-result:hover { background-color: var(--theme)}
+.datepicker table tr td.active:hover, .datepicker table tr td.active:hover:hover, .datepicker table tr td.active.disabled:hover, .datepicker table tr td.active.disabled:hover:hover, .datepicker table tr td.active:focus, .datepicker table tr td.active:hover:focus, .datepicker table tr td.active.disabled:focus, .datepicker table tr td.active.disabled:hover:focus, .datepicker table tr td.active:active, .datepicker table tr td.active:hover:active, .datepicker table tr td.active.disabled:active, .datepicker table tr td.active.disabled:hover:active, .datepicker table tr td.active.active, .datepicker table tr td.active:hover.active, .datepicker table tr td.active.disabled.active, .datepicker table tr td.active.disabled:hover.active, .open .dropdown-toggle.datepicker table tr td.active, .open .dropdown-toggle.datepicker table tr td.active:hover, .open .dropdown-toggle.datepicker table tr td.active.disabled, .open .dropdown-toggle.datepicker table tr td.active.disabled:hover { border-color: var(--theme) }
+.datepicker table tr td.old, .datepicker table tr td.new { color: var(--theme) }
+.modify_search .form-control:hover, .modify_search .dropdown-btn:hover { box-shadow: var(--theme) 0px 0px 0px 1px inset !important; box-shadow: 0 0 0 2px var(--theme); }
+.roomInc:hover, .roomDec:hover, .qtyInc:hover, .qtyDec:hover { background-color: var(--theme);}
+.loading-results-globe .loading-results-track:before, .loading-results-globe .loading-results-track:after,.loading-results-globe .loading-results-track-progress { background-color: var(--theme);}
+.loading-results-globe .destination-prefix { color: var(--theme);}
+.theme-search-results-item-flight-section-meta-city { color: var(--theme);}
+.theme-search-results-item-flight-section-path-line-dot { background-color: var(--theme);}
+.theme-search-results-item-flight-details-schedule-icon { color: var(--theme);}
+.sidebar-menu li.active>a, .sidebar-menu li.page-active>a { background-color: var(--theme);}
+.ladda-sm { background-color: #fff !important; color: var(--theme); background-color:var(--theme)}
+.ladda-sm:hover { color: #000 }

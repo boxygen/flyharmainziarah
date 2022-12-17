@@ -1,0 +1,47 @@
+.demo_                    { -webkit-filter: blur(2px); filter: blur(2px); }
+.credentials              {display: #none !important;}
+
+.multi_language           {display: none !important;}
+.multi_currency           {display: none !important;}
+.b2b_agents               {display: none !important;}
+.suppliers                {display: none !important;}
+.user_wallet              {display: none !important;}
+
+/* HOTELS */
+.M_hotels                 {display: #none !important;}
+.modules_Hotels           {display: #none !important;}
+.modules_Rezlives         {display: #none !important;}
+.modules_Hotelston        {display: #none !important;}
+.modules_Agoda            {display: #none !important;}
+
+/* FLIGHTS */
+.M_flights                {display: #none !important;}
+.modules_Flights          {display: #none !important;}
+.modules_Amadeus          {display: #none !important;}
+.modules_Kiwi             {display: #none !important;}
+.modules_Aerticket        {display: #none !important;}
+.modules_Travelport        {display: #none !important;}
+.modules_Travelpayouts    {display: #none !important;}
+.modules_Duffel           {display: #none !important;}
+.modules_Hiholiday        {display: #none !important;}
+
+/* TOURS */
+.M_tours                  {display: #none !important;}
+.modules_Tours            {display: #none !important;}
+.modules_Viator           {display: #none !important;}
+
+/* CARS */
+.M_cars                   {display: #none !important;}
+.modules_Cars             {display: #none !important;}
+
+/* VISA */
+.M_visa                   {display: #none !important;}
+.modules_Visa             {display: #none !important;}
+
+/* EXTRAS */
+.modules_Offers           {display: #none !important;}
+.modules_Blog             {display: #none !important;}
+.modules_Locations        {display: #none !important;}
+.modules_Coupons          {display: #none !important;}
+.modules_Reviews          {display: #none !important;}
+.modules_Newsletter       {display: #none !important;}

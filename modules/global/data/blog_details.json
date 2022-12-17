@@ -1,0 +1,28 @@
+[
+{
+"id": 1,
+"category": "Travel and Foods",
+"category_post": 11,
+"name": "Trapizzino, Rome’s OG Street Food",
+"author_name": "Qasim hussain",
+"date": "16/12/2014",
+"desc": "Rome’s rapidly growing trend, “lo street food,” seems unstoppable. I’m not talking about food trucks, which really really don’t work or exist here the way the do in other cities, nor the ubiquitous pizza by the slice joints. I’m referring to a different approach to marketing food in which takeaways, cafes and restaurants peddle (relatively) inexpensive, portable snacks.",
+"img": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto",
+"category_post":[{
+	"category_id":"1",
+	"title":"Trapizzino, Rome’s OG Street Food",
+	"post":"10"
+},
+{
+	"category_id":"2",
+	"title":"Trapizzino, Rome’s OG Street Food",
+	"post":"110"
+},
+{
+	"category_id":"3",
+	"title":"Trapizzino, Rome’s OG Street Food",
+	"post":"140"
+}
+]
+}
+]

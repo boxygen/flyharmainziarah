@@ -1,0 +1,27 @@
+{
+  "hotels":[
+    "Hotels",
+    "Rezlives",
+    "Hotelston",
+    "Agoda",
+    "Hotelbeds"
+  ],
+  "flights":[
+    "Flights",
+    "Kiwi",
+    "Amadeus",
+    "Aerticket",
+    "Travelport",
+    "Duffel",
+    "Hiholiday"
+  ],
+  "tours":[
+    "Tours",
+    "Viator",
+    "Tiqets"
+  ],
+  "cars":[
+    "Cars",
+    "Kiwitaxi"
+  ]
+}

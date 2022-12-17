@@ -1,0 +1,7 @@
+[
+	{"code":"USD","value":"1","country_code":"us","country":"United States Dollar"},
+    {"code":"PKR","value":"100","country_code":"pk","country":"Pakistani Rupees Dollar"},
+    {"code":"SAR","value":"1","country_code":"sa","country":"Saudi Riyals"},
+    {"code":"TRK","value":"1","country_code":"tr","country":"Turkish Lira"},
+    {"code":"Euro","value":"1","country_code":"gb","country":"British Pound"}
+]

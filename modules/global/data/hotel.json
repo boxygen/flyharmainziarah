@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1910583751,
+    "name": "Hotel Lahore Inn International",
+    "location": "Farid Court Road",
+    "stars": 4,
+    "rating": 3,
+    "latitude": 31.56169,
+    "longitude": 74.311274,
+    "price": 48,
+    "desc": "Inspired by the great pyramids of Egypt Raffles Dubai is a stunning landmark in Dubai’s skyline. This award-winning hotel features an outdoor pool an extensive spa and free in-room WiFi.Handcrafted ornaments and luxurious fabrics decorate the rooms at Raffles Dubai each with a generously-sized private balcony with views of the Dubai skyline. All units also have a flat-screen TV a minibar and a luxury bathroom. Interactive in-room digital system allowing guests to access and manage all elements of their stay via the TV or iPad. Butler service are available for all rooms.Raffles' spa beckons with a pampering menu to relax and revitalize. It includes saunas and steam rooms. There is also an outdoor swimming pool and an extensive gym.There is a wide selection of international fare on offer at Raffles’ 7 dining outlets including awards winning Japanese restaurant TOMO and Raffles Salon which serves traditional afternoon tea.",
+    "img": {
+        "img_1": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto",
+        "img_2": "https://photo.hotellook.com/image_v2/limit/8864598454/800/520.auto",
+        "img_3": "https://photo.hotellook.com/image_v2/limit/8863781883/800/520.auto",
+        "img_4": "https://photo.hotellook.com/image_v2/limit/8822374341/800/520.auto",
+        "img_5": "https://photo.hotellook.com/image_v2/limit/8865431226/800/520.auto"
+    },
+    "rooms": [{
+      "id": 1,
+      "name": "Double1",
+      "price": 50,
+      "refundable": 1,
+      "rooms": "5",
+      "img": {
+        "img_1": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto",
+        "img_2": "https://photo.hotellook.com/image_v2/limit/8864598454/800/520.auto",
+        "img_3": "https://photo.hotellook.com/image_v2/limit/8863781883/800/520.auto",
+        "img_4": "https://photo.hotellook.com/image_v2/limit/8822374341/800/520.auto",
+        "img_5": "https://photo.hotellook.com/image_v2/limit/8865431226/800/520.auto"
+      },
+      "options": [
+        {
+          "id": 1,
+          "price": 20,
+          "quantity": 5,
+          "adults": 12,
+          "child": 0
+        },
+        {
+          "id": 2,
+          "price": 60,
+          "quantity": 3,
+          "adults": 22,
+          "child": 0
+        },
+        {
+          "id": 3,
+          "price": 70,
+          "quantity": 4,
+          "adults": 32,
+          "child": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Double2",
+      "price": 90,
+      "refundable": 1,
+      "rooms": "5",
+      "img": {
+        "img_1": "https://photo.hotellook.com/image_v2/limit/8864598454/800/520.auto",
+        "img_2": "https://photo.hotellook.com/image_v2/limit/8865431220/800/520.auto",
+        "img_3": "https://photo.hotellook.com/image_v2/limit/8863781883/800/520.auto",
+        "img_4": "https://photo.hotellook.com/image_v2/limit/8822374341/800/520.auto",
+        "img_5": "https://photo.hotellook.com/image_v2/limit/8865431226/800/520.auto"
+      },
+      "options": [
+        {
+          "id": 1,
+          "price": 22,
+          "quantity": 5,
+          "adults": 42,
+          "child": 0
+        },
+        {
+          "id": 2,
+          "price": 62,
+          "quantity": 3,
+          "adults": 6,
+          "child": 0
+        },
+        {
+          "id": 3,
+          "price": 72,
+          "quantity": 5,
+          "adults": 62,
+          "child": 0
+        }
+      ]
+    },
+      {
+      "id": 3,
+      "name": "Double3",
+      "price": 20,
+      "refundable": 1,
+      "rooms": "5",
+      "img": {
+        "img_1": "https://photo.hotellook.com/image_v2/limit/8863781883/800/520.auto",
+        "img_2": "https://photo.hotellook.com/image_v2/limit/8864598454/800/520.auto",
+        "img_3": "https://photo.hotellook.com/image_v2/limit/8863781883/800/520.auto",
+        "img_4": "https://photo.hotellook.com/image_v2/limit/8822374341/800/520.auto",
+        "img_5": "https://photo.hotellook.com/image_v2/limit/8865431226/800/520.auto"
+      },
+      "options": [
+        {
+          "id": 1,
+          "price": 21,
+          "quantity": 3,
+          "adults": 72,
+          "child": 0
+        },
+        {
+          "id": 2,
+          "price": 61,
+          "quantity": 4,
+          "adults": 82,
+          "child": 0
+        },
+        {
+          "id": 3,
+          "price": 71,
+          "quantity": 5,
+          "adults": 92,
+          "child": 0
+        }
+      ]
+    }
+  ],
+
+    "amenities": [
+      "swimming pool",
+      "parking",
+      "wifi",
+      "security guard",
+      "airport transfer"
+    ],
+    "related": [
+        {
+          "id": 1,
+          "name": "Faletti's Grand Hotel Lahore",
+          "price": 100,
+          "stars": 4,
+          "img": "https://photo.hotellook.com/image_v2/limit/8863781883/800/520.auto",
+          "city": "lahore"
+        },
+        {
+          "id": 2,
+          "name": "Faletti's Express Hotel",
+          "price": 150,
+          "stars": 5,
+          "img": "https://photo.hotellook.com/image_v2/limit/8863781883/800/520.auto",
+          "city": "lahore"
+        },
+        {
+          "id": 3,
+          "name": "Cafe Beirut",
+          "price": 60,
+          "stars": 2,
+          "img": "https://photo.hotellook.com/image_v2/limit/8863781883/800/520.auto",
+          "city": "lahore"
+        }
+      ]
+  }
+        
+]
